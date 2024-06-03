@@ -10,6 +10,7 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
 import { JwtModule } from './jwt/jwt.module';
 import { CryptoModule } from './crypto/crypto.module';
 import { UserModule } from './user/user.module';
+import { DatasetModule } from './dataset/dataset.module';
 
 @Module({
   imports: [
@@ -43,6 +44,7 @@ import { UserModule } from './user/user.module';
     }),
     UserModule,
     AuthModule,
+    DatasetModule,
   ],
   controllers: [AppController],
   providers: [AppService],

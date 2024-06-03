@@ -1,0 +1,29 @@
+// src/dataset/dataset.schema.ts
+import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
+import { Document } from 'mongoose';
+
+@Schema()
+export class Dataset extends Document {
+  @Prop()
+  title: string;
+
+  @Prop()
+  slug: string;
+
+  @Prop()
+  description: string;
+
+  @Prop()
+  source: string;
+
+  @Prop()
+  csv: string;
+
+  @Prop()
+  created_at: Date;
+
+  @Prop()
+  updated_at: Date;
+}
+
+export const DatasetSchema = SchemaFactory.createForClass(Dataset);
