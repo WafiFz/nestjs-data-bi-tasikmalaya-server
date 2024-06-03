@@ -1,6 +1,6 @@
 // src/dataset/dataset.schema.ts
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
-import { Document } from 'mongoose';
+import { Document, Schema as MongooseSchema } from 'mongoose';
 
 @Schema()
 export class Dataset extends Document {
@@ -16,8 +16,8 @@ export class Dataset extends Document {
   @Prop()
   source: string;
 
-  @Prop()
-  csv: string;
+  @Prop({ type: MongooseSchema.Types.Mixed })
+  content: any;
 
   @Prop()
   created_at: Date;

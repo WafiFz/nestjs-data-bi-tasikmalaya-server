@@ -24,7 +24,7 @@ export class CreateDatasetDto {
   source: string;
 
   @ApiProperty({ description: 'Isi dari file CSV' }) // Keterangan tentang isi file CSV
-  csv: string;
+  content: object;
 
 //   constructor(dto: CreateDatasetDto) {
 //     this.title = dto.title;
