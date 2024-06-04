@@ -23,6 +23,16 @@ async function bootstrap() {
   app.useLogger(app.get(AppLogger));
   app.use(cookieParser());
 
+  const isProduction = configService.get<boolean>('IS_PRODUCTION');
+
+  if (isProduction) {
+    // Mengaktifkan CORS hanya untuk beberapa rute di mode produksi
+    app.enableCors(/* tambahkan opsi CORS yang diperlukan di sini */);
+  } else {
+    // Mengaktifkan CORS untuk semua akses di mode pengembangan
+    app.enableCors();
+  }
+
   const port = configService.get<number>('PORT');
   await app.listen(port ?? 3000);
 }
