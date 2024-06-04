@@ -11,11 +11,11 @@ export class DatasetService {
     @InjectModel(Dataset.name) private readonly datasetModel: Model<Dataset>,
   ) {}
 
-  async getAllDatasets(page: number, itemPerPage: number) {
+  async getAllDatasets(page: number, itemsPerPage: number) {
     const datasets = await this.datasetModel
       .find()
-      .skip((page - 1) * itemPerPage)
-      .limit(itemPerPage)
+      .skip((page - 1) * itemsPerPage)
+      .limit(itemsPerPage)
       .exec();
     const totalDatasets = await this.datasetModel.countDocuments();
     return { datasets, totalDatasets };

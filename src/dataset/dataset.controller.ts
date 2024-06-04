@@ -28,7 +28,7 @@ export class DatasetController {
     example: 1,
   })
   @ApiQuery({
-    name: 'itemPerPage',
+    name: 'itemsPerPage',
     type: Number,
     required: false,
     description: 'Items per page',
@@ -40,11 +40,10 @@ export class DatasetController {
   })
   async getAllDatasets(
     @Query('page') page?: number,
-    @Query('itemPerPage') itemPerPage?: number,
+    @Query('itemsPerPage') itemsPerPage?: number,
   ): Promise<{ datasets: Dataset[]; totalDatasets: number }> {
     const pageNumber = page || 1;
-    const itemsPerPage = itemPerPage || 10;
-    return this.datasetService.getAllDatasets(pageNumber, itemsPerPage);
+    return this.datasetService.getAllDatasets(pageNumber, itemsPerPage ?? 10);
   }
 
   @Get(':id')
