@@ -46,6 +46,13 @@ export class DatasetController {
     return this.datasetService.getAllDatasets(pageNumber, itemsPerPage ?? 10);
   }
 
+  @Get('/by-slug/:slug')
+  @ApiParam({ name: 'slug', type: String })
+  @ApiResponse({ status: 200, description: 'Returns a single dataset' })
+  async getDatasetBySlug(@Param('slug') slug: string): Promise<Dataset> {
+    return this.datasetService.getDatasetBySlug(slug);
+  }
+
   @Get(':id')
   @ApiParam({ name: 'id', type: String })
   @ApiResponse({ status: 200, description: 'Returns a single dataset' })

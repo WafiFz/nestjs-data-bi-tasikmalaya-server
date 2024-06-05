@@ -29,6 +29,14 @@ export class DatasetService {
     return dataset;
   }
 
+  async getDatasetBySlug(slug: string) {
+    const dataset = await this.datasetModel.findOne({ slug }).exec();
+    if (!dataset) {
+      throw new NotFoundException('Dataset not found');
+    }
+    return dataset;
+  }
+
   async createDataset(createDatasetDto: CreateDatasetDto) {
     const dataset = {
       ...createDatasetDto,
