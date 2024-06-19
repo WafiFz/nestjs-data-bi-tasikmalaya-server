@@ -11,6 +11,7 @@ import { JwtModule } from './jwt/jwt.module';
 import { CryptoModule } from './crypto/crypto.module';
 import { UserModule } from './user/user.module';
 import { DatasetModule } from './dataset/dataset.module';
+import { PredictionModule } from './prediction/prediction.module';
 
 @Module({
   imports: [
@@ -45,6 +46,7 @@ import { DatasetModule } from './dataset/dataset.module';
     UserModule,
     AuthModule,
     DatasetModule,
+    PredictionModule,
   ],
   controllers: [AppController],
   providers: [AppService],

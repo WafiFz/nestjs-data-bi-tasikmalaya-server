@@ -1,3091 +1,3127 @@
-[
-  {
-    "Date": "01/31/2012",
-    "Periode": "Jan-12",
-    "Tahun": 2012,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.16,
-      "yoy": 4.64,
-      "ytd": 1.16
-    },
-    "Jawa Barat": {
-      "mtm": 0.79,
-      "yoy": 3.28,
-      "ytd": 0.79
-    },
-    "Nasional": {
-      "mtm": 0.76,
-      "yoy - rhs": 3.65,
-      "ytd": 0.76
-    }
-  },
-  {
-    "Date": "02/29/2012",
-    "Periode": "Feb-12",
-    "Tahun": 2012,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.44,
-      "yoy": 4.86,
-      "ytd": 1.6
-    },
-    "Jawa Barat": {
-      "mtm": 0.66,
-      "yoy": 3.83,
-      "ytd": 1.45
-    },
-    "Nasional": {
-      "mtm": 0.54,
-      "yoy - rhs": 3.56,
-      "ytd": 1.3
-    }
-  },
-  {
-    "Date": "03/31/2012",
-    "Periode": "Mar-12",
-    "Tahun": 2012,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.6,
-      "yoy": 5.27,
-      "ytd": 2.21
-    },
-    "Jawa Barat": {
-      "mtm": 0.64,
-      "yoy": 4.06,
-      "ytd": 2.1
-    },
-    "Nasional": {
-      "mtm": 0.07,
-      "yoy - rhs": 3.97,
-      "ytd": 1.38
-    }
-  },
-  {
-    "Date": "04/30/2012",
-    "Periode": "Apr-12",
-    "Tahun": 2012,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.25,
-      "yoy": 5.13,
-      "ytd": 1.96
-    },
-    "Jawa Barat": {
-      "mtm": 0.12,
-      "yoy": 3.81,
-      "ytd": 2.22
-    },
-    "Nasional": {
-      "mtm": -0.05,
-      "yoy - rhs": 4.07,
-      "ytd": 1.33
-    }
-  },
-  {
-    "Date": "05/31/2012",
-    "Periode": "Mei-12",
-    "Tahun": 2012,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.22,
-      "yoy": 5.2,
-      "ytd": 2.19
-    },
-    "Jawa Barat": {
-      "mtm": 0.12,
-      "yoy": 3.77,
-      "ytd": 2.35
-    },
-    "Nasional": {
-      "mtm": 0.07,
-      "yoy - rhs": 4.45,
-      "ytd": 1.4
-    }
-  },
-  {
-    "Date": "06/30/2012",
-    "Periode": "Jun-12",
-    "Tahun": 2012,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.92,
-      "yoy": 5.79,
-      "ytd": 3.12
-    },
-    "Jawa Barat": {
-      "mtm": 0.61,
-      "yoy": 4.3,
-      "ytd": 2.97
-    },
-    "Nasional": {
-      "mtm": 0.62,
-      "yoy - rhs": 4.53,
-      "ytd": 2.02
-    }
-  },
-  {
-    "Date": "07/31/2012",
-    "Periode": "Jul-12",
-    "Tahun": 2012,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.28,
-      "yoy": 6.39,
-      "ytd": 4.43
-    },
-    "Jawa Barat": {
-      "mtm": 0.92,
-      "yoy": 4.88,
-      "ytd": 3.92
-    },
-    "Nasional": {
-      "mtm": 0.7,
-      "yoy - rhs": 4.56,
-      "ytd": 2.73
-    }
-  },
-  {
-    "Date": "08/31/2012",
-    "Periode": "Agt-12",
-    "Tahun": 2012,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.25,
-      "yoy": 7.1,
-      "ytd": 5.75
-    },
-    "Jawa Barat": {
-      "mtm": 1.1,
-      "yoy": 5.77,
-      "ytd": 5.05
-    },
-    "Nasional": {
-      "mtm": 0.95,
-      "yoy - rhs": 4.58,
-      "ytd": 3.7
-    }
-  },
-  {
-    "Date": "09/30/2012",
-    "Periode": "Sep-12",
-    "Tahun": 2012,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.49,
-      "yoy": 7.14,
-      "ytd": 6.26
-    },
-    "Jawa Barat": {
-      "mtm": 0.68,
-      "yoy": 5.91,
-      "ytd": 5.75
-    },
-    "Nasional": {
-      "mtm": 0.01,
-      "yoy - rhs": 4.31,
-      "ytd": 3.72
-    }
-  },
-  {
-    "Date": "10/31/2012",
-    "Periode": "Okt-12",
-    "Tahun": 2012,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.3,
-      "yoy": 7.04,
-      "ytd": 6.58
-    },
-    "Jawa Barat": {
-      "mtm": 0.35,
-      "yoy": 5.87,
-      "ytd": 6.11
-    },
-    "Nasional": {
-      "mtm": 0.16,
-      "yoy - rhs": 4.6,
-      "ytd": 3.88
-    }
-  },
-  {
-    "Date": "11/30/2012",
-    "Periode": "Nov-12",
-    "Tahun": 2012,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.23,
-      "yoy": 6.69,
-      "ytd": 6.83
-    },
-    "Jawa Barat": {
-      "mtm": 0.17,
-      "yoy": 5.71,
-      "ytd": 6.29
-    },
-    "Nasional": {
-      "mtm": 0.07,
-      "yoy - rhs": 4.32,
-      "ytd": 3.95
-    }
-  },
-  {
-    "Date": "12/31/2012",
-    "Periode": "Des-12",
-    "Tahun": 2012,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.24,
-      "yoy": 6.58,
-      "ytd": 7.09
-    },
-    "Jawa Barat": {
-      "mtm": 0.34,
-      "yoy": 5.61,
-      "ytd": 6.65
-    },
-    "Nasional": {
-      "mtm": 0.54,
-      "yoy - rhs": 4.3,
-      "ytd": 4.51
-    }
-  },
-  {
-    "Date": "01/31/2013",
-    "Periode": "Jan-13",
-    "Tahun": 2013,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.48,
-      "yoy": 6.53,
-      "ytd": 0.48
-    },
-    "Jawa Barat": {
-      "mtm": 0.72,
-      "yoy": 5.87,
-      "ytd": 0.72
-    },
-    "Nasional": {
-      "mtm": 1.03,
-      "yoy - rhs": 4.57,
-      "ytd": 1.03
-    }
-  },
-  {
-    "Date": "02/28/2013",
-    "Periode": "Feb-13",
-    "Tahun": 2013,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.7,
-      "yoy": 6.77,
-      "ytd": 1.18
-    },
-    "Jawa Barat": {
-      "mtm": 0.82,
-      "yoy": 6.03,
-      "ytd": 1.54
-    },
-    "Nasional": {
-      "mtm": 0.75,
-      "yoy - rhs": 5.31,
-      "ytd": 1.78
-    }
-  },
-  {
-    "Date": "03/31/2013",
-    "Periode": "Mar-13",
-    "Tahun": 2013,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.65,
-      "yoy": 6.91,
-      "ytd": 1.84
-    },
-    "Jawa Barat": {
-      "mtm": 0.57,
-      "yoy": 6.18,
-      "ytd": 2.12
-    },
-    "Nasional": {
-      "mtm": 0.63,
-      "yoy - rhs": 5.9,
-      "ytd": 2.41
-    }
-  },
-  {
-    "Date": "04/30/2013",
-    "Periode": "Apr-13",
-    "Tahun": 2013,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.38,
-      "yoy": 6.82,
-      "ytd": 2.23
-    },
-    "Jawa Barat": {
-      "mtm": 0.1,
-      "yoy": 5.8,
-      "ytd": 2.22
-    },
-    "Nasional": {
-      "mtm": 0.1,
-      "yoy - rhs": 5.57,
-      "ytd": 2.51
-    }
-  },
-  {
-    "Date": "05/31/2013",
-    "Periode": "Mei-13",
-    "Tahun": 2013,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.13,
-      "yoy": 6.25,
-      "ytd": 2.37
-    },
-    "Jawa Barat": {
-      "mtm": 0.03,
-      "yoy": 5.18,
-      "ytd": 2.26
-    },
-    "Nasional": {
-      "mtm": 0.03,
-      "yoy - rhs": 5.47,
-      "ytd": 2.54
-    }
-  },
-  {
-    "Date": "06/30/2013",
-    "Periode": "Jun-13",
-    "Tahun": 2013,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.54,
-      "yoy": 6.74,
-      "ytd": 3.94
-    },
-    "Jawa Barat": {
-      "mtm": 1.6,
-      "yoy": 6.26,
-      "ytd": 3.9
-    },
-    "Nasional": {
-      "mtm": 1.03,
-      "yoy - rhs": 5.9,
-      "ytd": 3.6
-    }
-  },
-  {
-    "Date": "07/31/2013",
-    "Periode": "Jul-13",
-    "Tahun": 2013,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 3.78,
-      "yoy": 8.94,
-      "ytd": 7.84
-    },
-    "Jawa Barat": {
-      "mtm": 4.41,
-      "yoy": 8.64,
-      "ytd": 8.53
-    },
-    "Nasional": {
-      "mtm": 3.29,
-      "yoy - rhs": 8.61,
-      "ytd": 6.98
-    }
-  },
-  {
-    "Date": "08/31/2013",
-    "Periode": "Agt-13",
-    "Tahun": 2013,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.9,
-      "yoy": 8.93,
-      "ytd": 8.82
-    },
-    "Jawa Barat": {
-      "mtm": 0.95,
-      "yoy": 8.91,
-      "ytd": 9.54
-    },
-    "Nasional": {
-      "mtm": 1.12,
-      "yoy - rhs": 8.79,
-      "ytd": 8.17
-    }
-  },
-  {
-    "Date": "09/30/2013",
-    "Periode": "Sep-13",
-    "Tahun": 2013,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.1,
-      "yoy": 8.39,
-      "ytd": 8.93
-    },
-    "Jawa Barat": {
-      "mtm": 0.02,
-      "yoy": 8.32,
-      "ytd": 9.56
-    },
-    "Nasional": {
-      "mtm": -0.35,
-      "yoy - rhs": 8.4,
-      "ytd": 7.81
-    }
-  },
-  {
-    "Date": "10/31/2013",
-    "Periode": "Okt-13",
-    "Tahun": 2013,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.01,
-      "yoy": 7.56,
-      "ytd": 8.94
-    },
-    "Jawa Barat": {
-      "mtm": 0.04,
-      "yoy": 7.4,
-      "ytd": 9.61
-    },
-    "Nasional": {
-      "mtm": 0.09,
-      "yoy - rhs": 8.32,
-      "ytd": 7.91
-    }
-  },
-  {
-    "Date": "11/30/2013",
-    "Periode": "Nov-13",
-    "Tahun": 2013,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.38,
-      "yoy": 7.71,
-      "ytd": 9.34
-    },
-    "Jawa Barat": {
-      "mtm": 0.24,
-      "yoy": 7.36,
-      "ytd": 9.87
-    },
-    "Nasional": {
-      "mtm": 0.12,
-      "yoy - rhs": 8.37,
-      "ytd": 8.03
-    }
-  },
-  {
-    "Date": "12/31/2013",
-    "Periode": "Des-13",
-    "Tahun": 2013,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.27,
-      "yoy": 7.58,
-      "ytd": 9.63
-    },
-    "Jawa Barat": {
-      "mtm": 0.42,
-      "yoy": 7.4,
-      "ytd": 10.32
-    },
-    "Nasional": {
-      "mtm": 0.55,
-      "yoy - rhs": 8.38,
-      "ytd": 8.59
-    }
-  },
-  {
-    "Date": "01/31/2014",
-    "Periode": "Jan-14",
-    "Tahun": 2014,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.83,
-      "yoy": 8.33,
-      "ytd": 0.83
-    },
-    "Jawa Barat": {
-      "mtm": 1.04,
-      "yoy": 7.96,
-      "ytd": 1.04
-    },
-    "Nasional": {
-      "mtm": 1.07,
-      "yoy - rhs": 8.22,
-      "ytd": 1.07
-    }
-  },
-  {
-    "Date": "02/28/2014",
-    "Periode": "Feb-14",
-    "Tahun": 2014,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.07,
-      "yoy": 8.72,
-      "ytd": 1.9
-    },
-    "Jawa Barat": {
-      "mtm": 0.75,
-      "yoy": 8.03,
-      "ytd": 1.79
-    },
-    "Nasional": {
-      "mtm": 0.26,
-      "yoy - rhs": 7.75,
-      "ytd": 1.33
-    }
-  },
-  {
-    "Date": "03/31/2014",
-    "Periode": "Mar-14",
-    "Tahun": 2014,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.38,
-      "yoy": 8.49,
-      "ytd": 2.29
-    },
-    "Jawa Barat": {
-      "mtm": 0.13,
-      "yoy": 7.54,
-      "ytd": 1.92
-    },
-    "Nasional": {
-      "mtm": 0.08,
-      "yoy - rhs": 7.32,
-      "ytd": 1.41
-    }
-  },
-  {
-    "Date": "04/30/2014",
-    "Periode": "Apr-14",
-    "Tahun": 2014,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.06,
-      "yoy": 8.13,
-      "ytd": 2.35
-    },
-    "Jawa Barat": {
-      "mtm": 0.06,
-      "yoy": 7.11,
-      "ytd": 1.98
-    },
-    "Nasional": {
-      "mtm": 0.02,
-      "yoy - rhs": 7.25,
-      "ytd": 1.43
-    }
-  },
-  {
-    "Date": "05/31/2014",
-    "Periode": "Mei-14",
-    "Tahun": 2014,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.11,
-      "yoy": 7.99,
-      "ytd": 2.46
-    },
-    "Jawa Barat": {
-      "mtm": 0.19,
-      "yoy": 7.1,
-      "ytd": 2.17
-    },
-    "Nasional": {
-      "mtm": 0.16,
-      "yoy - rhs": 7.32,
-      "ytd": 1.59
-    }
-  },
-  {
-    "Date": "06/30/2014",
-    "Periode": "Jun-14",
-    "Tahun": 2014,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.98,
-      "yoy": 8.35,
-      "ytd": 3.46
-    },
-    "Jawa Barat": {
-      "mtm": 0.71,
-      "yoy": 7.42,
-      "ytd": 2.89
-    },
-    "Nasional": {
-      "mtm": 0.43,
-      "yoy - rhs": 6.7,
-      "ytd": 2.02
-    }
-  },
-  {
-    "Date": "07/31/2014",
-    "Periode": "Jul-14",
-    "Tahun": 2014,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.87,
-      "yoy": 8.19,
-      "ytd": 4.36
-    },
-    "Jawa Barat": {
-      "mtm": 0.73,
-      "yoy": 7.18,
-      "ytd": 3.64
-    },
-    "Nasional": {
-      "mtm": 0.93,
-      "yoy - rhs": 7.26,
-      "ytd": 2.97
-    }
-  },
-  {
-    "Date": "08/31/2014",
-    "Periode": "Agt-14",
-    "Tahun": 2014,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.62,
-      "yoy": 7.49,
-      "ytd": 5.01
-    },
-    "Jawa Barat": {
-      "mtm": 0.67,
-      "yoy": 6.65,
-      "ytd": 4.34
-    },
-    "Nasional": {
-      "mtm": 0.47,
-      "yoy - rhs": 6.7,
-      "ytd": 3.45
-    }
-  },
-  {
-    "Date": "09/30/2014",
-    "Periode": "Sep-14",
-    "Tahun": 2014,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.31,
-      "yoy": 7.31,
-      "ytd": 5.33
-    },
-    "Jawa Barat": {
-      "mtm": 0.28,
-      "yoy": 6.37,
-      "ytd": 4.63
-    },
-    "Nasional": {
-      "mtm": 0.27,
-      "yoy - rhs": 6.75,
-      "ytd": 3.73
-    }
-  },
-  {
-    "Date": "10/31/2014",
-    "Periode": "Okt-14",
-    "Tahun": 2014,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.14,
-      "yoy": 6.95,
-      "ytd": 5.48
-    },
-    "Jawa Barat": {
-      "mtm": 0.18,
-      "yoy": 6.15,
-      "ytd": 4.82
-    },
-    "Nasional": {
-      "mtm": 0.02,
-      "yoy - rhs": 6.74,
-      "ytd": 3.75
-    }
-  },
-  {
-    "Date": "11/30/2014",
-    "Periode": "Nov-14",
-    "Tahun": 2014,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.42,
-      "yoy": 7.55,
-      "ytd": 6.96
-    },
-    "Jawa Barat": {
-      "mtm": 1.3,
-      "yoy": 6.95,
-      "ytd": 6.18
-    },
-    "Nasional": {
-      "mtm": 1.5,
-      "yoy - rhs": 6.23,
-      "ytd": 5.31
-    }
-  },
-  {
-    "Date": "12/31/2014",
-    "Periode": "Des-14",
-    "Tahun": 2014,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.38,
-      "yoy": 8.16,
-      "ytd": 8.43
-    },
-    "Jawa Barat": {
-      "mtm": 1.44,
-      "yoy": 7.69,
-      "ytd": 7.71
-    },
-    "Nasional": {
-      "mtm": 2.46,
-      "yoy - rhs": 8.36,
-      "ytd": 7.92
-    }
-  },
-  {
-    "Date": "01/31/2015",
-    "Periode": "Jan-15",
-    "Tahun": 2015,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.02,
-      "yoy": 6.42,
-      "ytd": -0.02
-    },
-    "Jawa Barat": {
-      "mtm": -0.21,
-      "yoy": 6.49,
-      "ytd": -0.21
-    },
-    "Nasional": {
-      "mtm": -0.24,
-      "yoy - rhs": 6.95,
-      "ytd": -0.24
-    }
-  },
-  {
-    "Date": "02/28/2015",
-    "Periode": "Feb-15",
-    "Tahun": 2015,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.15,
-      "yoy": 6.2,
-      "ytd": 0.13
-    },
-    "Jawa Barat": {
-      "mtm": -0.07,
-      "yoy": 6.23,
-      "ytd": -0.28
-    },
-    "Nasional": {
-      "mtm": -0.36,
-      "yoy - rhs": 6.29,
-      "ytd": -0.59
-    }
-  },
-  {
-    "Date": "03/31/2015",
-    "Periode": "Mar-15",
-    "Tahun": 2015,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.12,
-      "yoy": 5.87,
-      "ytd": 0.25
-    },
-    "Jawa Barat": {
-      "mtm": -0.04,
-      "yoy": 5.79,
-      "ytd": -0.32
-    },
-    "Nasional": {
-      "mtm": 0.17,
-      "yoy - rhs": 6.38,
-      "ytd": -0.43
-    }
-  },
-  {
-    "Date": "04/30/2015",
-    "Periode": "Apr-15",
-    "Tahun": 2015,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.27,
-      "yoy": 5.64,
-      "ytd": 0.52
-    },
-    "Jawa Barat": {
-      "mtm": 0.34,
-      "yoy": 5.78,
-      "ytd": 0.02
-    },
-    "Nasional": {
-      "mtm": 0.36,
-      "yoy - rhs": 6.79,
-      "ytd": -0.07
-    }
-  },
-  {
-    "Date": "05/31/2015",
-    "Periode": "Mei-15",
-    "Tahun": 2015,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.04,
-      "yoy": 5.4,
-      "ytd": 0.56
-    },
-    "Jawa Barat": {
-      "mtm": 0.11,
-      "yoy": 5.64,
-      "ytd": 0.13
-    },
-    "Nasional": {
-      "mtm": 0.5,
-      "yoy - rhs": 7.15,
-      "ytd": 0.43
-    }
-  },
-  {
-    "Date": "06/30/2015",
-    "Periode": "Jun-15",
-    "Tahun": 2015,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.65,
-      "yoy": 5.88,
-      "ytd": 1.22
-    },
-    "Jawa Barat": {
-      "mtm": 0.81,
-      "yoy": 6.24,
-      "ytd": 0.94
-    },
-    "Nasional": {
-      "mtm": 0.54,
-      "yoy - rhs": 7.26,
-      "ytd": 0.98
-    }
-  },
-  {
-    "Date": "07/31/2015",
-    "Periode": "Jul-15",
-    "Tahun": 2015,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.98,
-      "yoy": 6.14,
-      "ytd": 2.21
-    },
-    "Jawa Barat": {
-      "mtm": 0.99,
-      "yoy": 6.45,
-      "ytd": 1.93
-    },
-    "Nasional": {
-      "mtm": 0.93,
-      "yoy - rhs": 7.26,
-      "ytd": 1.91
-    }
-  },
-  {
-    "Date": "08/31/2015",
-    "Periode": "Agt-15",
-    "Tahun": 2015,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.42,
-      "yoy": 5.91,
-      "ytd": 2.64
-    },
-    "Jawa Barat": {
-      "mtm": 0.51,
-      "yoy": 6.08,
-      "ytd": 2.45
-    },
-    "Nasional": {
-      "mtm": 0.39,
-      "yoy - rhs": 7.18,
-      "ytd": 2.31
-    }
-  },
-  {
-    "Date": "09/30/2015",
-    "Periode": "Sep-15",
-    "Tahun": 2015,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.19,
-      "yoy": 5.4,
-      "ytd": 2.83
-    },
-    "Jawa Barat": {
-      "mtm": 0.11,
-      "yoy": 5.64,
-      "ytd": 2.56
-    },
-    "Nasional": {
-      "mtm": -0.05,
-      "yoy - rhs": 6.83,
-      "ytd": 2.26
-    }
-  },
-  {
-    "Date": "10/31/2015",
-    "Periode": "Okt-15",
-    "Tahun": 2015,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.31,
-      "yoy": 5.32,
-      "ytd": 3.14
-    },
-    "Jawa Barat": {
-      "mtm": 0.24,
-      "yoy": 5.44,
-      "ytd": 2.81
-    },
-    "Nasional": {
-      "mtm": 0.19,
-      "yoy - rhs": 6.25,
-      "ytd": 2.45
-    }
-  },
-  {
-    "Date": "11/30/2015",
-    "Periode": "Nov-15",
-    "Tahun": 2015,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.53,
-      "yoy": 5.22,
-      "ytd": 3.68
-    },
-    "Jawa Barat": {
-      "mtm": 0.48,
-      "yoy": 5.22,
-      "ytd": 3.3
-    },
-    "Nasional": {
-      "mtm": 0.21,
-      "yoy - rhs": 4.89,
-      "ytd": 2.67
-    }
-  },
-  {
-    "Date": "12/31/2015",
-    "Periode": "Des-15",
-    "Tahun": 2015,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.65,
-      "yoy": 5.54,
-      "ytd": 4.35
-    },
-    "Jawa Barat": {
-      "mtm": 0.54,
-      "yoy": 5.47,
-      "ytd": 3.85
-    },
-    "Nasional": {
-      "mtm": 0.96,
-      "yoy - rhs": 4.89,
-      "ytd": 3.64
-    }
-  },
-  {
-    "Date": "01/31/2016",
-    "Periode": "Jan-16",
-    "Tahun": 2016,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.86,
-      "yoy": 5.98,
-      "ytd": 0.86
-    },
-    "Jawa Barat": {
-      "mtm": 1.23,
-      "yoy": 5.83,
-      "ytd": 1.23
-    },
-    "Nasional": {
-      "mtm": 0.51,
-      "yoy - rhs": 4.14,
-      "ytd": 0.51
-    }
-  },
-  {
-    "Date": "02/29/2016",
-    "Periode": "Feb-16",
-    "Tahun": 2016,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.71,
-      "yoy": 5.93,
-      "ytd": 1.57
-    },
-    "Jawa Barat": {
-      "mtm": 0.32,
-      "yoy": 5.35,
-      "ytd": 1.55
-    },
-    "Nasional": {
-      "mtm": 0.42,
-      "yoy - rhs": 4.42,
-      "ytd": 0.93
-    }
-  },
-  {
-    "Date": "03/31/2016",
-    "Periode": "Mar-16",
-    "Tahun": 2016,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.22,
-      "yoy": 5.46,
-      "ytd": 1.79
-    },
-    "Jawa Barat": {
-      "mtm": 0.18,
-      "yoy": 5.12,
-      "ytd": 1.74
-    },
-    "Nasional": {
-      "mtm": 0.19,
-      "yoy - rhs": 4.45,
-      "ytd": 1.12
-    }
-  },
-  {
-    "Date": "04/30/2016",
-    "Periode": "Apr-16",
-    "Tahun": 2016,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.2,
-      "yoy": 5.12,
-      "ytd": 1.99
-    },
-    "Jawa Barat": {
-      "mtm": 0.19,
-      "yoy": 4.9,
-      "ytd": 1.94
-    },
-    "Nasional": {
-      "mtm": -0.45,
-      "yoy - rhs": 3.6,
-      "ytd": 0.66
-    }
-  },
-  {
-    "Date": "05/31/2016",
-    "Periode": "Mei-16",
-    "Tahun": 2016,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.15,
-      "yoy": 4.88,
-      "ytd": 2.14
-    },
-    "Jawa Barat": {
-      "mtm": 0.19,
-      "yoy": 4.7,
-      "ytd": 2.13
-    },
-    "Nasional": {
-      "mtm": 0.24,
-      "yoy - rhs": 3.33,
-      "ytd": 0.9
-    }
-  },
-  {
-    "Date": "06/30/2016",
-    "Periode": "Jun-16",
-    "Tahun": 2016,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.65,
-      "yoy": 5.4,
-      "ytd": 2.8
-    },
-    "Jawa Barat": {
-      "mtm": 0.93,
-      "yoy": 5.05,
-      "ytd": 3.08
-    },
-    "Nasional": {
-      "mtm": 0.66,
-      "yoy - rhs": 3.45,
-      "ytd": 1.56
-    }
-  },
-  {
-    "Date": "07/31/2016",
-    "Periode": "Jul-16",
-    "Tahun": 2016,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.53,
-      "yoy": 5.21,
-      "ytd": 3.35
-    },
-    "Jawa Barat": {
-      "mtm": 0.67,
-      "yoy": 5.06,
-      "ytd": 3.75
-    },
-    "Nasional": {
-      "mtm": 0.69,
-      "yoy - rhs": 3.43,
-      "ytd": 2.25
-    }
-  },
-  {
-    "Date": "08/31/2016",
-    "Periode": "Agt-16",
-    "Tahun": 2016,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.31,
-      "yoy": 5.21,
-      "ytd": 3.67
-    },
-    "Jawa Barat": {
-      "mtm": 0.51,
-      "yoy": 5.21,
-      "ytd": 4.27
-    },
-    "Nasional": {
-      "mtm": 0.28,
-      "yoy - rhs": 2.79,
-      "ytd": 2.54
-    }
-  },
-  {
-    "Date": "09/30/2016",
-    "Periode": "Sep-16",
-    "Tahun": 2016,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.21,
-      "yoy": 4.74,
-      "ytd": 3.45
-    },
-    "Jawa Barat": {
-      "mtm": -0.05,
-      "yoy": 4.76,
-      "ytd": 4.22
-    },
-    "Nasional": {
-      "mtm": -0.14,
-      "yoy - rhs": 3.07,
-      "ytd": 2.39
-    }
-  },
-  {
-    "Date": "10/31/2016",
-    "Periode": "Okt-16",
-    "Tahun": 2016,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.21,
-      "yoy": 4.77,
-      "ytd": 3.67
-    },
-    "Jawa Barat": {
-      "mtm": 0.24,
-      "yoy": 4.84,
-      "ytd": 4.47
-    },
-    "Nasional": {
-      "mtm": 0.14,
-      "yoy - rhs": 3.31,
-      "ytd": 2.53
-    }
-  },
-  {
-    "Date": "11/30/2016",
-    "Periode": "Nov-16",
-    "Tahun": 2016,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.53,
-      "yoy": 5.08,
-      "ytd": 4.22
-    },
-    "Jawa Barat": {
-      "mtm": 0.45,
-      "yoy": 5.14,
-      "ytd": 4.93
-    },
-    "Nasional": {
-      "mtm": 0.47,
-      "yoy - rhs": 3.58,
-      "ytd": 3.01
-    }
-  },
-  {
-    "Date": "12/31/2016",
-    "Periode": "Des-16",
-    "Tahun": 2016,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.58,
-      "yoy": 5.55,
-      "ytd": 4.82
-    },
-    "Jawa Barat": {
-      "mtm": 0.54,
-      "yoy": 5.65,
-      "ytd": 5.5
-    },
-    "Nasional": {
-      "mtm": 0.42,
-      "yoy - rhs": 3.02,
-      "ytd": 3.44
-    }
-  },
-  {
-    "Date": "01/31/2017",
-    "Periode": "Jan-17",
-    "Tahun": 2017,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.02,
-      "yoy": 5.81,
-      "ytd": 1.02
-    },
-    "Jawa Barat": {
-      "mtm": 0.81,
-      "yoy": 5.64,
-      "ytd": 0.81
-    },
-    "Nasional": {
-      "mtm": 0.97,
-      "yoy - rhs": 3.49,
-      "ytd": 0.97
-    }
-  },
-  {
-    "Date": "02/28/2017",
-    "Periode": "Feb-17",
-    "Tahun": 2017,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.34,
-      "yoy": 5.66,
-      "ytd": 1.37
-    },
-    "Jawa Barat": {
-      "mtm": 0.53,
-      "yoy": 5.77,
-      "ytd": 1.34
-    },
-    "Nasional": {
-      "mtm": 0.23,
-      "yoy - rhs": 3.83,
-      "ytd": 1.21
-    }
-  },
-  {
-    "Date": "03/31/2017",
-    "Periode": "Mar-17",
-    "Tahun": 2017,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.1,
-      "yoy": 5.42,
-      "ytd": 1.47
-    },
-    "Jawa Barat": {
-      "mtm": 0.02,
-      "yoy": 5.42,
-      "ytd": 1.36
-    },
-    "Nasional": {
-      "mtm": 0.02,
-      "yoy - rhs": 3.61,
-      "ytd": 1.24
-    }
-  },
-  {
-    "Date": "04/30/2017",
-    "Periode": "Apr-17",
-    "Tahun": 2017,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.12,
-      "yoy": 5.3,
-      "ytd": 1.59
-    },
-    "Jawa Barat": {
-      "mtm": 0.15,
-      "yoy": 5.28,
-      "ytd": 1.51
-    },
-    "Nasional": {
-      "mtm": 0,
-      "yoy - rhs": 4.17,
-      "ytd": 1.24
-    }
-  },
-  {
-    "Date": "05/31/2017",
-    "Periode": "Mei-17",
-    "Tahun": 2017,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.19,
-      "yoy": 5.14,
-      "ytd": 1.79
-    },
-    "Jawa Barat": {
-      "mtm": 0.27,
-      "yoy": 5.02,
-      "ytd": 1.78
-    },
-    "Nasional": {
-      "mtm": 0.39,
-      "yoy - rhs": 4.33,
-      "ytd": 1.63
-    }
-  },
-  {
-    "Date": "06/30/2017",
-    "Periode": "Jun-17",
-    "Tahun": 2017,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.57,
-      "yoy": 5.18,
-      "ytd": 2.37
-    },
-    "Jawa Barat": {
-      "mtm": 0.61,
-      "yoy": 5.3,
-      "ytd": 2.4
-    },
-    "Nasional": {
-      "mtm": 0.69,
-      "yoy - rhs": 4.37,
-      "ytd": 2.33
-    }
-  },
-  {
-    "Date": "07/31/2017",
-    "Periode": "Jul-17",
-    "Tahun": 2017,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.63,
-      "yoy": 4.91,
-      "ytd": 3.01
-    },
-    "Jawa Barat": {
-      "mtm": 0.57,
-      "yoy": 5.1,
-      "ytd": 2.98
-    },
-    "Nasional": {
-      "mtm": 0.22,
-      "yoy - rhs": 3.88,
-      "ytd": 2.55
-    }
-  },
-  {
-    "Date": "08/31/2017",
-    "Periode": "Agt-17",
-    "Tahun": 2017,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.02,
-      "yoy": 4.45,
-      "ytd": 2.98
-    },
-    "Jawa Barat": {
-      "mtm": -0.01,
-      "yoy": 4.5,
-      "ytd": 2.96
-    },
-    "Nasional": {
-      "mtm": -0.07,
-      "yoy - rhs": 3.82,
-      "ytd": 2.47
-    }
-  },
-  {
-    "Date": "09/30/2017",
-    "Periode": "Sep-17",
-    "Tahun": 2017,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.15,
-      "yoy": 4.02,
-      "ytd": 2.82
-    },
-    "Jawa Barat": {
-      "mtm": -0.17,
-      "yoy": 3.98,
-      "ytd": 2.79
-    },
-    "Nasional": {
-      "mtm": -0.13,
-      "yoy - rhs": 3.72,
-      "ytd": 2.34
-    }
-  },
-  {
-    "Date": "10/31/2017",
-    "Periode": "Okt-17",
-    "Tahun": 2017,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.07,
-      "yoy": 3.8,
-      "ytd": 2.89
-    },
-    "Jawa Barat": {
-      "mtm": 0.15,
-      "yoy": 3.93,
-      "ytd": 2.94
-    },
-    "Nasional": {
-      "mtm": 0.01,
-      "yoy - rhs": 3.58,
-      "ytd": 2.36
-    }
-  },
-  {
-    "Date": "11/30/2017",
-    "Periode": "Nov-17",
-    "Tahun": 2017,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.3,
-      "yoy": 3.92,
-      "ytd": 3.19
-    },
-    "Jawa Barat": {
-      "mtm": 0.41,
-      "yoy": 4.2,
-      "ytd": 3.36
-    },
-    "Nasional": {
-      "mtm": 0.2,
-      "yoy - rhs": 3.3,
-      "ytd": 2.56
-    }
-  },
-  {
-    "Date": "12/31/2017",
-    "Periode": "Des-17",
-    "Tahun": 2017,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.65,
-      "yoy": 4.11,
-      "ytd": 3.86
-    },
-    "Jawa Barat": {
-      "mtm": 0.54,
-      "yoy": 4.25,
-      "ytd": 3.91
-    },
-    "Nasional": {
-      "mtm": 0.71,
-      "yoy - rhs": 3.61,
-      "ytd": 3.3
-    }
-  },
-  {
-    "Date": "01/31/2018",
-    "Periode": "Jan-18",
-    "Tahun": 2018,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.83,
-      "yoy": 4.3,
-      "ytd": 0.83
-    },
-    "Jawa Barat": {
-      "mtm": 0.98,
-      "yoy": 4.45,
-      "ytd": 0.98
-    },
-    "Nasional": {
-      "mtm": 0.62,
-      "yoy - rhs": 3.55,
-      "ytd": 0.62
-    }
-  },
-  {
-    "Date": "02/28/2018",
-    "Periode": "Feb-18",
-    "Tahun": 2018,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.16,
-      "yoy": 4.01,
-      "ytd": 0.99
-    },
-    "Jawa Barat": {
-      "mtm": 0.09,
-      "yoy": 4.01,
-      "ytd": 1.07
-    },
-    "Nasional": {
-      "mtm": 0.17,
-      "yoy - rhs": 3.18,
-      "ytd": 0.79
-    }
-  },
-  {
-    "Date": "03/31/2018",
-    "Periode": "Mar-18",
-    "Tahun": 2018,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.11,
-      "yoy": 3.86,
-      "ytd": 1.1
-    },
-    "Jawa Barat": {
-      "mtm": 0.07,
-      "yoy": 3.9,
-      "ytd": 1.14
-    },
-    "Nasional": {
-      "mtm": 0.2,
-      "yoy - rhs": 3.4,
-      "ytd": 0.99
-    }
-  },
-  {
-    "Date": "04/30/2018",
-    "Periode": "Apr-18",
-    "Tahun": 2018,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.04,
-      "yoy": 3.68,
-      "ytd": 1.15
-    },
-    "Jawa Barat": {
-      "mtm": 0.04,
-      "yoy": 3.72,
-      "ytd": 1.18
-    },
-    "Nasional": {
-      "mtm": 0.1,
-      "yoy - rhs": 3.41,
-      "ytd": 1.09
-    }
-  },
-  {
-    "Date": "05/31/2018",
-    "Periode": "Mei-18",
-    "Tahun": 2018,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.35,
-      "yoy": 3.69,
-      "ytd": 1.5
-    },
-    "Jawa Barat": {
-      "mtm": 0.22,
-      "yoy": 3.73,
-      "ytd": 1.4
-    },
-    "Nasional": {
-      "mtm": 0.21,
-      "yoy - rhs": 3.25,
-      "ytd": 1.3
-    }
-  },
-  {
-    "Date": "06/30/2018",
-    "Periode": "Jun-18",
-    "Tahun": 2018,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.52,
-      "yoy": 3.84,
-      "ytd": 2.03
-    },
-    "Jawa Barat": {
-      "mtm": 0.55,
-      "yoy": 3.99,
-      "ytd": 1.96
-    },
-    "Nasional": {
-      "mtm": 0.59,
-      "yoy - rhs": 3.12,
-      "ytd": 1.89
-    }
-  },
-  {
-    "Date": "07/31/2018",
-    "Periode": "Jul-18",
-    "Tahun": 2018,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.14,
-      "yoy": 3.78,
-      "ytd": 2.17
-    },
-    "Jawa Barat": {
-      "mtm": 0.2,
-      "yoy": 3.86,
-      "ytd": 2.16
-    },
-    "Nasional": {
-      "mtm": 0.28,
-      "yoy - rhs": 3.18,
-      "ytd": 2.18
-    }
-  },
-  {
-    "Date": "08/31/2018",
-    "Periode": "Agt-18",
-    "Tahun": 2018,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.07,
-      "yoy": 3.4,
-      "ytd": 2.1
-    },
-    "Jawa Barat": {
-      "mtm": -0.08,
-      "yoy": 3.36,
-      "ytd": 2.07
-    },
-    "Nasional": {
-      "mtm": -0.05,
-      "yoy - rhs": 3.2,
-      "ytd": 2.13
-    }
-  },
-  {
-    "Date": "09/30/2018",
-    "Periode": "Sep-18",
-    "Tahun": 2018,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.09,
-      "yoy": 3.07,
-      "ytd": 2.01
-    },
-    "Jawa Barat": {
-      "mtm": -0.15,
-      "yoy": 3.01,
-      "ytd": 1.91
-    },
-    "Nasional": {
-      "mtm": -0.18,
-      "yoy - rhs": 2.88,
-      "ytd": 1.94
-    }
-  },
-  {
-    "Date": "10/31/2018",
-    "Periode": "Okt-18",
-    "Tahun": 2018,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.29,
-      "yoy": 3.36,
-      "ytd": 2.3
-    },
-    "Jawa Barat": {
-      "mtm": 0.31,
-      "yoy": 3.41,
-      "ytd": 2.23
-    },
-    "Nasional": {
-      "mtm": 0.28,
-      "yoy - rhs": 3.16,
-      "ytd": 2.22
-    }
-  },
-  {
-    "Date": "11/30/2018",
-    "Periode": "Nov-18",
-    "Tahun": 2018,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.37,
-      "yoy": 3.53,
-      "ytd": 2.68
-    },
-    "Jawa Barat": {
-      "mtm": 0.25,
-      "yoy": 3.57,
-      "ytd": 2.49
-    },
-    "Nasional": {
-      "mtm": 0.27,
-      "yoy - rhs": 3.23,
-      "ytd": 2.5
-    }
-  },
-  {
-    "Date": "12/31/2018",
-    "Periode": "Des-18",
-    "Tahun": 2018,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.62,
-      "yoy": 3.71,
-      "ytd": 3.33
-    },
-    "Jawa Barat": {
-      "mtm": 0.53,
-      "yoy": 3.8,
-      "ytd": 3.04
-    },
-    "Nasional": {
-      "mtm": 0.62,
-      "yoy - rhs": 3.13,
-      "ytd": 3.13
-    }
-  },
-  {
-    "Date": "01/31/2019",
-    "Periode": "Jan-19",
-    "Tahun": 2019,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.6,
-      "yoy": 3.77,
-      "ytd": 0.6
-    },
-    "Jawa Barat": {
-      "mtm": 0.68,
-      "yoy": 3.96,
-      "ytd": 0.68
-    },
-    "Nasional": {
-      "mtm": 0.32,
-      "yoy - rhs": 2.82,
-      "ytd": 0.32
-    }
-  },
-  {
-    "Date": "02/28/2019",
-    "Periode": "Feb-19",
-    "Tahun": 2019,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.21,
-      "yoy": 3.59,
-      "ytd": 0.81
-    },
-    "Jawa Barat": {
-      "mtm": 0.11,
-      "yoy": 3.67,
-      "ytd": 0.79
-    },
-    "Nasional": {
-      "mtm": 0.08,
-      "yoy - rhs": 2.57,
-      "ytd": 0.41
-    }
-  },
-  {
-    "Date": "03/31/2019",
-    "Periode": "Mar-19",
-    "Tahun": 2019,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.18,
-      "yoy": 3.55,
-      "ytd": 0.99
-    },
-    "Jawa Barat": {
-      "mtm": 0.1,
-      "yoy": 3.47,
-      "ytd": 0.89
-    },
-    "Nasional": {
-      "mtm": 0.11,
-      "yoy - rhs": 2.48,
-      "ytd": 0.52
-    }
-  },
-  {
-    "Date": "04/30/2019",
-    "Periode": "Apr-19",
-    "Tahun": 2019,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.13,
-      "yoy": 3.33,
-      "ytd": 1.12
-    },
-    "Jawa Barat": {
-      "mtm": 0.13,
-      "yoy": 3.31,
-      "ytd": 1.02
-    },
-    "Nasional": {
-      "mtm": 0.44,
-      "yoy - rhs": 2.83,
-      "ytd": 0.96
-    }
-  },
-  {
-    "Date": "05/31/2019",
-    "Periode": "Mei-19",
-    "Tahun": 2019,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.63,
-      "yoy": 3.63,
-      "ytd": 1.76
-    },
-    "Jawa Barat": {
-      "mtm": 0.54,
-      "yoy": 3.6,
-      "ytd": 1.56
-    },
-    "Nasional": {
-      "mtm": 0.68,
-      "yoy - rhs": 3.32,
-      "ytd": 1.64
-    }
-  },
-  {
-    "Date": "06/30/2019",
-    "Periode": "Jun-19",
-    "Tahun": 2019,
-    "Bulan": "Jun",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.55,
-      "yoy": 3.61,
-      "ytd": 2.32
-    },
-    "Jawa Barat": {
-      "mtm": 0.49,
-      "yoy": 3.51,
-      "ytd": 2.06
-    },
-    "Nasional": {
-      "mtm": 0.55,
-      "yoy - rhs": 3.28,
-      "ytd": 2.19
-    }
-  },
-  {
-    "Date": "07/31/2019",
-    "Periode": "Jul-19",
-    "Tahun": 2019,
-    "Bulan": "Jul",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.44,
-      "yoy": 3.56,
-      "ytd": 2.77
-    },
-    "Jawa Barat": {
-      "mtm": 0.47,
-      "yoy": 3.48,
-      "ytd": 2.54
-    },
-    "Nasional": {
-      "mtm": 0.31,
-      "yoy - rhs": 3.32,
-      "ytd": 2.51
-    }
-  },
-  {
-    "Date": "08/31/2019",
-    "Periode": "Agt-19",
-    "Tahun": 2019,
-    "Bulan": "Agt",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.02,
-      "yoy": 3.39,
-      "ytd": 2.75
-    },
-    "Jawa Barat": {
-      "mtm": 0.01,
-      "yoy": 3.35,
-      "ytd": 2.55
-    },
-    "Nasional": {
-      "mtm": -0.12,
-      "yoy - rhs": 3.49,
-      "ytd": 2.39
-    }
-  },
-  {
-    "Date": "09/30/2019",
-    "Periode": "Sep-19",
-    "Tahun": 2019,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.17,
-      "yoy": 3.07,
-      "ytd": 2.58
-    },
-    "Jawa Barat": {
-      "mtm": -0.26,
-      "yoy": 2.83,
-      "ytd": 2.28
-    },
-    "Nasional": {
-      "mtm": -0.27,
-      "yoy - rhs": 3.39,
-      "ytd": 2.12
-    }
-  },
-  {
-    "Date": "10/31/2019",
-    "Periode": "Okt-19",
-    "Tahun": 2019,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.07,
-      "yoy": 2.9,
-      "ytd": 2.65
-    },
-    "Jawa Barat": {
-      "mtm": 0.12,
-      "yoy": 2.83,
-      "ytd": 2.39
-    },
-    "Nasional": {
-      "mtm": 0.02,
-      "yoy - rhs": 3.16,
-      "ytd": 2.14
-    }
-  },
-  {
-    "Date": "11/30/2019",
-    "Periode": "Nov-19",
-    "Tahun": 2019,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.13,
-      "yoy": 2.79,
-      "ytd": 2.79
-    },
-    "Jawa Barat": {
-      "mtm": 0.15,
-      "yoy": 2.72,
-      "ytd": 2.55
-    },
-    "Nasional": {
-      "mtm": 0.14,
-      "yoy - rhs": 3.0,
-      "ytd": 2.28
-    }
-  },
-  {
-    "Date": "12/31/2019",
-    "Periode": "Des-19",
-    "Tahun": 2019,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.64,
-      "yoy": 3.03,
-      "ytd": 3.46
-    },
-    "Jawa Barat": {
-      "mtm": 0.62,
-      "yoy": 3.09,
-      "ytd": 3.17
-    },
-    "Nasional": {
-      "mtm": 0.34,
-      "yoy - rhs": 2.72,
-      "ytd": 2.62
-    }
-  },
-  {
-    "Date": "01/20/2020",
-    "Periode": "Jan-20",
-    "Tahun": 2020,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.17,
-      "yoy": 1.35,
-      "ytd": 0.17
-    },
-    "Jawa Barat": {
-      "mtm": 0.47,
-      "yoy": 3.41,
-      "ytd": 0.47
-    },
-    "Nasional": {
-      "mtm": 0.39,
-      "yoy - rhs": 2.68,
-      "ytd": 0.39
-    }
-  },
-  {
-    "Date": "02/20/2020",
-    "Periode": "Feb-20",
-    "Tahun": 2020,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.32,
-      "yoy": 1.81,
-      "ytd": 0.49
-    },
-    "Jawa Barat": {
-      "mtm": 0.31,
-      "yoy": 3.72,
-      "ytd": 0.78
-    },
-    "Nasional": {
-      "mtm": 0.28,
-      "yoy - rhs": 2.98,
-      "ytd": 0.66
-    }
-  },
-  {
-    "Date": "03/20/2020",
-    "Periode": "Mar-20",
-    "Tahun": 2020,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.32,
-      "yoy": 2.16,
-      "ytd": 0.81
-    },
-    "Jawa Barat": {
-      "mtm": 0.31,
-      "yoy": 3.95,
-      "ytd": 1.1
-    },
-    "Nasional": {
-      "mtm": 0.1,
-      "yoy - rhs": 2.96,
-      "ytd": 0.76
-    }
-  },
-  {
-    "Date": "04/20/2020",
-    "Periode": "Apr-20",
-    "Tahun": 2020,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.13,
-      "yoy": 2.08,
-      "ytd": 0.93
-    },
-    "Jawa Barat": {
-      "mtm": 0.13,
-      "yoy": 3.77,
-      "ytd": 1.23
-    },
-    "Nasional": {
-      "mtm": 0.08,
-      "yoy - rhs": 2.67,
-      "ytd": 0.84
-    }
-  },
-  {
-    "Date": "05/20/2020",
-    "Periode": "Mei-20",
-    "Tahun": 2020,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.03,
-      "yoy": 1.65,
-      "ytd": 0.96
-    },
-    "Jawa Barat": {
-      "mtm": -0.11,
-      "yoy": 2.93,
-      "ytd": 1.12
-    },
-    "Nasional": {
-      "mtm": 0.07,
-      "yoy - rhs": 2.19,
-      "ytd": 0.9
-    }
-  },
-  {
-    "Date": "06/20/2020",
-    "Periode": "Jun-20",
-    "Tahun": 2020,
-    "Bulan": "Juni",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.15,
-      "yoy": 1.44,
-      "ytd": 1.11
-    },
-    "Jawa Barat": {
-      "mtm": 0.32,
-      "yoy": 2.75,
-      "ytd": 1.44
-    },
-    "Nasional": {
-      "mtm": 0.18,
-      "yoy - rhs": 1.96,
-      "ytd": 1.09
-    }
-  },
-  {
-    "Date": "07/20/2020",
-    "Periode": "Jul-20",
-    "Tahun": 2020,
-    "Bulan": "Juli",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.13,
-      "yoy": 1.28,
-      "ytd": 1.24
-    },
-    "Jawa Barat": {
-      "mtm": -0.07,
-      "yoy": 2.21,
-      "ytd": 1.38
-    },
-    "Nasional": {
-      "mtm": -0.1,
-      "yoy - rhs": 1.54,
-      "ytd": 0.98
-    }
-  },
-  {
-    "Date": "08/20/2020",
-    "Periode": "Agu-20",
-    "Tahun": 2020,
-    "Bulan": "Agu",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.27,
-      "yoy": 0.87,
-      "ytd": 0.96
-    },
-    "Jawa Barat": {
-      "mtm": -0.08,
-      "yoy": 1.71,
-      "ytd": 1.3
-    },
-    "Nasional": {
-      "mtm": -0.05,
-      "yoy - rhs": 1.32,
-      "ytd": 0.93
-    }
-  },
-  {
-    "Date": "09/20/2020",
-    "Periode": "Sep-20",
-    "Tahun": 2020,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.03,
-      "yoy": 1.31,
-      "ytd": 0.93
-    },
-    "Jawa Barat": {
-      "mtm": -0.01,
-      "yoy": 1.77,
-      "ytd": 1.29
-    },
-    "Nasional": {
-      "mtm": -0.05,
-      "yoy - rhs": 1.42,
-      "ytd": 0.89
-    }
-  },
-  {
-    "Date": "10/20/2020",
-    "Periode": "Okt-20",
-    "Tahun": 2020,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.14,
-      "yoy": 1.61,
-      "ytd": 1.07
-    },
-    "Jawa Barat": {
-      "mtm": 0.07,
-      "yoy": 1.86,
-      "ytd": 1.36
-    },
-    "Nasional": {
-      "mtm": 0.07,
-      "yoy - rhs": 1.44,
-      "ytd": 0.95
-    }
-  },
-  {
-    "Date": "11/20/2020",
-    "Periode": "Nov-20",
-    "Tahun": 2020,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.27,
-      "yoy": 1.82,
-      "ytd": 1.35
-    },
-    "Jawa Barat": {
-      "mtm": 0.29,
-      "yoy": 1.99,
-      "ytd": 1.65
-    },
-    "Nasional": {
-      "mtm": 0.28,
-      "yoy - rhs": 1.83,
-      "ytd": 1.35
-    }
-  },
-  {
-    "Date": "12/20/2020",
-    "Periode": "Des-20",
-    "Tahun": 2020,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.26,
-      "yoy": 1.61,
-      "ytd": 1.61
-    },
-    "Jawa Barat": {
-      "mtm": 0.52,
-      "yoy": 2.18,
-      "ytd": 2.18
-    },
-    "Nasional": {
-      "mtm": 0.45,
-      "yoy - rhs": 1.68,
-      "ytd": 1.68
-    }
-  },
-  {
-    "Date": "01/21/2021",
-    "Periode": "Jan-21",
-    "Tahun": 2021,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.25,
-      "yoy": 1.69,
-      "ytd": 0.25
-    },
-    "Jawa Barat": {
-      "mtm": 0.16,
-      "yoy": 1.87,
-      "ytd": 0.16
-    },
-    "Nasional": {
-      "mtm": 0.26,
-      "yoy - rhs": 1.55,
-      "ytd": 0.26
-    }
-  },
-  {
-    "Date": "02/21/2021",
-    "Periode": "Feb-21",
-    "Tahun": 2021,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.02,
-      "yoy": 1.39,
-      "ytd": 0.27
-    },
-    "Jawa Barat": {
-      "mtm": 0.19,
-      "yoy": 1.74,
-      "ytd": 0.35
-    },
-    "Nasional": {
-      "mtm": 0.1,
-      "yoy - rhs": 1.38,
-      "ytd": 0.36
-    }
-  },
-  {
-    "Date": "03/21/2021",
-    "Periode": "Mar-21",
-    "Tahun": 2021,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.06,
-      "yoy": 1.01,
-      "ytd": 0.21
-    },
-    "Jawa Barat": {
-      "mtm": 0.01,
-      "yoy": 1.43,
-      "ytd": 0.36
-    },
-    "Nasional": {
-      "mtm": 0.08,
-      "yoy - rhs": 1.37,
-      "ytd": 0.44
-    }
-  },
-  {
-    "Date": "04/21/2021",
-    "Periode": "Apr-21",
-    "Tahun": 2021,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.38,
-      "yoy": 1.26,
-      "ytd": 0.59
-    },
-    "Jawa Barat": {
-      "mtm": 0.22,
-      "yoy": 1.52,
-      "ytd": 0.58
-    },
-    "Nasional": {
-      "mtm": 0.13,
-      "yoy - rhs": 1.42,
-      "ytd": 0.58
-    }
-  },
-  {
-    "Date": "05/21/2021",
-    "Periode": "Mei-21",
-    "Tahun": 2021,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.11,
-      "yoy": 1.34,
-      "ytd": 0.69
-    },
-    "Jawa Barat": {
-      "mtm": 0.38,
-      "yoy": 2.03,
-      "ytd": 0.96
-    },
-    "Nasional": {
-      "mtm": 0.32,
-      "yoy - rhs": 1.68,
-      "ytd": 0.9
-    }
-  },
-  {
-    "Date": "06/21/2021",
-    "Periode": "Jun-21",
-    "Tahun": 2021,
-    "Bulan": "Juni",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.05,
-      "yoy": 1.14,
-      "ytd": 0.65
-    },
-    "Jawa Barat": {
-      "mtm": -0.23,
-      "yoy": 1.46,
-      "ytd": 0.73
-    },
-    "Nasional": {
-      "mtm": -0.16,
-      "yoy - rhs": 1.33,
-      "ytd": 0.77
-    }
-  },
-  {
-    "Date": "07/21/2021",
-    "Periode": "Jul-21",
-    "Tahun": 2021,
-    "Bulan": "Juli",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.08,
-      "yoy": 1.09,
-      "ytd": 0.72
-    },
-    "Jawa Barat": {
-      "mtm": 0.11,
-      "yoy": 1.64,
-      "ytd": 0.84
-    },
-    "Nasional": {
-      "mtm": 0.08,
-      "yoy - rhs": 1.52,
-      "ytd": 0.81
-    }
-  },
-  {
-    "Date": "08/21/2021",
-    "Periode": "Agu-21",
-    "Tahun": 2021,
-    "Bulan": "Agu",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.02,
-      "yoy": 1.59,
-      "ytd": 0.74
-    },
-    "Jawa Barat": {
-      "mtm": 0.14,
-      "yoy": 1.86,
-      "ytd": 0.98
-    },
-    "Nasional": {
-      "mtm": 0.03,
-      "yoy - rhs": 1.59,
-      "ytd": 0.84
-    }
-  },
-  {
-    "Date": "09/21/2021",
-    "Periode": "Sep-21",
-    "Tahun": 2021,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.24,
-      "yoy": 1.18,
-      "ytd": 0.5
-    },
-    "Jawa Barat": {
-      "mtm": -0.11,
-      "yoy": 1.76,
-      "ytd": 0.87
-    },
-    "Nasional": {
-      "mtm": -0.04,
-      "yoy - rhs": 1.6,
-      "ytd": 0.8
-    }
-  },
-  {
-    "Date": "10/21/2021",
-    "Periode": "Okt-21",
-    "Tahun": 2021,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.03,
-      "yoy": 1.07,
-      "ytd": 0.53
-    },
-    "Jawa Barat": {
-      "mtm": 0.07,
-      "yoy": 1.77,
-      "ytd": 0.95
-    },
-    "Nasional": {
-      "mtm": 0.12,
-      "yoy - rhs": 1.66,
-      "ytd": 0.93
-    }
-  },
-  {
-    "Date": "11/21/2021",
-    "Periode": "Nov-21",
-    "Tahun": 2021,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.17,
-      "yoy": 0.97,
-      "ytd": 0.7
-    },
-    "Jawa Barat": {
-      "mtm": 0.27,
-      "yoy": 1.74,
-      "ytd": 1.22
-    },
-    "Nasional": {
-      "mtm": 0.37,
-      "yoy - rhs": 1.75,
-      "ytd": 1.3
-    }
-  },
-  {
-    "Date": "12/21/2021",
-    "Periode": "Des-21",
-    "Tahun": 2021,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.46,
-      "yoy": 1.17,
-      "ytd": 1.17
-    },
-    "Jawa Barat": {
-      "mtm": 0.46,
-      "yoy": 1.69,
-      "ytd": 1.69
-    },
-    "Nasional": {
-      "mtm": 0.57,
-      "yoy - rhs": 1.87,
-      "ytd": 1.87
-    }
-  },
-  {
-    "Date": "01/22/2022",
-    "Periode": "Jan-22",
-    "Tahun": 2022,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.45,
-      "yoy": 1.37,
-      "ytd": 0.45
-    },
-    "Jawa Barat": {
-      "mtm": 0.45,
-      "yoy": 1.98,
-      "ytd": 0.45
-    },
-    "Nasional": {
-      "mtm": 0.56,
-      "yoy - rhs": 2.18,
-      "ytd": 0.56
-    }
-  },
-  {
-    "Date": "02/22/2022",
-    "Periode": "Feb-22",
-    "Tahun": 2022,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.48,
-      "yoy": 1.84,
-      "ytd": 0.94
-    },
-    "Jawa Barat": {
-      "mtm": 0.26,
-      "yoy": 2.05,
-      "ytd": 0.71
-    },
-    "Nasional": {
-      "mtm": -0.02,
-      "yoy - rhs": 2.06,
-      "ytd": 0.54
-    }
-  },
-  {
-    "Date": "03/22/2022",
-    "Periode": "Mar-22",
-    "Tahun": 2022,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.04,
-      "yoy": 2.96,
-      "ytd": 1.98
-    },
-    "Jawa Barat": {
-      "mtm": 0.69,
-      "yoy": 2.74,
-      "ytd": 1.4
-    },
-    "Nasional": {
-      "mtm": 0.66,
-      "yoy - rhs": 2.64,
-      "ytd": 1.2
-    }
-  },
-  {
-    "Date": "04/22/2022",
-    "Periode": "Apr-22",
-    "Tahun": 2022,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 1.36,
-      "yoy": 3.96,
-      "ytd": 3.37
-    },
-    "Jawa Barat": {
-      "mtm": 1.07,
-      "yoy": 3.61,
-      "ytd": 2.49
-    },
-    "Nasional": {
-      "mtm": 0.95,
-      "yoy - rhs": 3.47,
-      "ytd": 2.15
-    }
-  },
-  {
-    "Date": "05/22/2022",
-    "Periode": "Mei-22",
-    "Tahun": 2022,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.76,
-      "yoy": 4.64,
-      "ytd": 4.15
-    },
-    "Jawa Barat": {
-      "mtm": 0.34,
-      "yoy": 3.57,
-      "ytd": 2.84
-    },
-    "Nasional": {
-      "mtm": 0.4,
-      "yoy - rhs": 3.55,
-      "ytd": 2.56
-    }
-  },
-  {
-    "Date": "06/22/2022",
-    "Periode": "Jun-22",
-    "Tahun": 2022,
-    "Bulan": "Juni",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.41,
-      "yoy": 5.12,
-      "ytd": 4.58
-    },
-    "Jawa Barat": {
-      "mtm": 0.57,
-      "yoy": 4.41,
-      "ytd": 3.43
-    },
-    "Nasional": {
-      "mtm": 0.61,
-      "yoy - rhs": 4.35,
-      "ytd": 3.19
-    }
-  },
-  {
-    "Date": "07/22/2022",
-    "Periode": "Jul-22",
-    "Tahun": 2022,
-    "Bulan": "Juli",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.57,
-      "yoy": 5.64,
-      "ytd": 5.18
-    },
-    "Jawa Barat": {
-      "mtm": 0.62,
-      "yoy": 4.94,
-      "ytd": 4.07
-    },
-    "Nasional": {
-      "mtm": 0.64,
-      "yoy - rhs": 4.94,
-      "ytd": 3.85
-    }
-  },
-  {
-    "Date": "08/22/2022",
-    "Periode": "Agu-22",
-    "Tahun": 2022,
-    "Bulan": "Agu",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.22,
-      "yoy": 5.39,
-      "ytd": 4.95
-    },
-    "Jawa Barat": {
-      "mtm": -0.06,
-      "yoy": 4.73,
-      "ytd": 4.01
-    },
-    "Nasional": {
-      "mtm": -0.21,
-      "yoy - rhs": 4.69,
-      "ytd": 3.63
-    }
-  },
-  {
-    "Date": "09/22/2022",
-    "Periode": "Sep-22",
-    "Tahun": 2022,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.95,
-      "yoy": 6.66,
-      "ytd": 5.95
-    },
-    "Jawa Barat": {
-      "mtm": 1.21,
-      "yoy": 6.12,
-      "ytd": 5.27
-    },
-    "Nasional": {
-      "mtm": 1.17,
-      "yoy - rhs": 5.95,
-      "ytd": 4.84
-    }
-  },
-  {
-    "Date": "10/22/2022",
-    "Periode": "Okt-22",
-    "Tahun": 2022,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.05,
-      "yoy": 6.57,
-      "ytd": 5.9
-    },
-    "Jawa Barat": {
-      "mtm": -0.11,
-      "yoy": 5.93,
-      "ytd": 5.16
-    },
-    "Nasional": {
-      "mtm": -0.11,
-      "yoy - rhs": 5.71,
-      "ytd": 4.73
-    }
-  },
-  {
-    "Date": "11/22/2022",
-    "Periode": "Nov-22",
-    "Tahun": 2022,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.18,
-      "yoy": 6.58,
-      "ytd": 6.09
-    },
-    "Jawa Barat": {
-      "mtm": 0.1,
-      "yoy": 5.75,
-      "ytd": 5.26
-    },
-    "Nasional": {
-      "mtm": 0.09,
-      "yoy - rhs": 5.42,
-      "ytd": 4.82
-    }
-  },
-  {
-    "Date": "12/22/2022",
-    "Periode": "Des-22",
-    "Tahun": 2022,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.53,
-      "yoy": 6.65,
-      "ytd": 6.65
-    },
-    "Jawa Barat": {
-      "mtm": 0.74,
-      "yoy": 6.04,
-      "ytd": 6.04
-    },
-    "Nasional": {
-      "mtm": 0.66,
-      "yoy - rhs": 5.51,
-      "ytd": 5.51
-    }
-  },
-  {
-    "Date": "01/23/2023",
-    "Periode": "Jan-23",
-    "Tahun": 2023,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.41,
-      "yoy": 6.61,
-      "ytd": 0.41
-    },
-    "Jawa Barat": {
-      "mtm": 0.47,
-      "yoy": 6.06,
-      "ytd": 0.47
-    },
-    "Nasional": {
-      "mtm": 0.34,
-      "yoy - rhs": 5.28,
-      "ytd": 0.34
-    }
-  },
-  {
-    "Date": "02/23/2023",
-    "Periode": "Feb-23",
-    "Tahun": 2023,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.41,
-      "yoy": 6.53,
-      "ytd": 0.82
-    },
-    "Jawa Barat": {
-      "mtm": 0.35,
-      "yoy": 6.17,
-      "ytd": 0.83
-    },
-    "Nasional": {
-      "mtm": 0.16,
-      "yoy - rhs": 5.47,
-      "ytd": 0.5
-    }
-  },
-  {
-    "Date": "03/23/2023",
-    "Periode": "Mar-23",
-    "Tahun": 2023,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.07,
-      "yoy": 5.51,
-      "ytd": 0.89
-    },
-    "Jawa Barat": {
-      "mtm": -0.18,
-      "yoy": 5.25,
-      "ytd": 0.64
-    },
-    "Nasional": {
-      "mtm": 0.18,
-      "yoy - rhs": 4.97,
-      "ytd": 0.68
-    }
-  },
-  {
-    "Date": "04/23/2023",
-    "Periode": "Apr-23",
-    "Tahun": 2023,
-    "Bulan": "Apr",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.63,
-      "yoy": 4.75,
-      "ytd": 1.53
-    },
-    "Jawa Barat": {
-      "mtm": 0.4,
-      "yoy": 4.55,
-      "ytd": 1.04
-    },
-    "Nasional": {
-      "mtm": 0.33,
-      "yoy - rhs": 4.33,
-      "ytd": 1.01
-    }
-  },
-  {
-    "Date": "05/23/2023",
-    "Periode": "Mei-23",
-    "Tahun": 2023,
-    "Bulan": "Mei",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.27,
-      "yoy": 4.25,
-      "ytd": 1.81
-    },
-    "Jawa Barat": {
-      "mtm": 0.12,
-      "yoy": 4.32,
-      "ytd": 1.16
-    },
-    "Nasional": {
-      "mtm": 0.09,
-      "yoy - rhs": 4.0,
-      "ytd": 1.1
-    }
-  },
-  {
-    "Date": "06/23/2023",
-    "Periode": "Jun-23",
-    "Tahun": 2023,
-    "Bulan": "Juni",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.04,
-      "yoy": 3.87,
-      "ytd": 1.85
-    },
-    "Jawa Barat": {
-      "mtm": 0.15,
-      "yoy": 3.88,
-      "ytd": 1.32
-    },
-    "Nasional": {
-      "mtm": 0.14,
-      "yoy": 3.52,
-      "yoy - rhs": 3.08,
-      "ytd": 1.24
-    }
-  },
-  {
-    "Date": "07/23/2023",
-    "Periode": "Jul-23",
-    "Tahun": 2023,
-    "Bulan": "Juli",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.13,
-      "yoy": 3.41,
-      "ytd": 1.99
-    },
-    "Jawa Barat": {
-      "mtm": 0.21,
-      "yoy": 3.46,
-      "ytd": 1.54
-    },
-    "Nasional": {
-      "mtm": 0.21,
-      "yoy - rhs": 3.08,
-      "ytd": 1.45
-    }
-  },
-  {
-    "Date": "08/23/2023",
-    "Periode": "Agu-23",
-    "Tahun": 2023,
-    "Bulan": "Agu",
-    "Tasikmalaya": {
-      "mtm - rhs": -0.04,
-      "yoy": 3.59,
-      "ytd": 1.94
-    },
-    "Jawa Barat": {
-      "mtm": -0.05,
-      "yoy": 3.47,
-      "ytd": 1.49
-    },
-    "Nasional": {
-      "mtm": -0.02,
-      "yoy - rhs": 3.27,
-      "ytd": 1.43
-    }
-  },
-  {
-    "Date": "09/23/2023",
-    "Periode": "Sep-23",
-    "Tahun": 2023,
-    "Bulan": "Sep",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.34,
-      "yoy": 2.96,
-      "ytd": 2.29
-    },
-    "Jawa Barat": {
-      "mtm": 0.11,
-      "yoy": 2.35,
-      "ytd": 1.6
-    },
-    "Nasional": {
-      "mtm": 0.19,
-      "yoy - rhs": 2.28,
-      "ytd": 1.63
-    }
-  },
-  {
-    "Date": "10/23/2023",
-    "Periode": "Okt-23",
-    "Tahun": 2023,
-    "Bulan": "Okt",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.01,
-      "yoy": 3.03,
-      "ytd": 2.3
-    },
-    "Jawa Barat": {
-      "mtm": 0.13,
-      "yoy": 2.58,
-      "ytd": 1.73
-    },
-    "Nasional": {
-      "mtm": 0.17,
-      "yoy - rhs": 2.56,
-      "ytd": 1.8
-    }
-  },
-  {
-    "Date": "11/23/2023",
-    "Periode": "Nov-23",
-    "Tahun": 2023,
-    "Bulan": "Nov",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.26,
-      "yoy": 3.11,
-      "ytd": 2.57
-    },
-    "Jawa Barat": {
-      "mtm": 0.36,
-      "yoy": 2.85,
-      "ytd": 2.09
-    },
-    "Nasional": {
-      "mtm": 0.38,
-      "yoy - rhs": 2.86,
-      "ytd": 2.19
-    }
-  },
-  {
-    "Date": "12/23/2023",
-    "Periode": "Des-23",
-    "Tahun": 2023,
-    "Bulan": "Des",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.27,
-      "yoy": 2.84,
-      "ytd": 2.84
-    },
-    "Jawa Barat": {
-      "mtm": 0.37,
-      "yoy": 2.48,
-      "ytd": 2.48
-    },
-    "Nasional": {
-      "mtm": 0.41,
-      "yoy - rhs": 2.61,
-      "ytd": 2.61
-    }
-  },
-  {
-    "Date": "01/24/2024",
-    "Periode": "Jan-24",
-    "Tahun": 2024,
-    "Bulan": "Jan",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.1,
-      "yoy": 2.14,
-      "ytd": 0.1
-    },
-    "Jawa Barat": {
-      "mtm": 0.15,
-      "yoy": 3.02,
-      "ytd": 0.15
-    },
-    "Nasional": {
-      "mtm": 0.04,
-      "yoy - rhs": 2.57,
-      "ytd": 0.04
-    }
-  },
-  {
-    "Date": "02/24/2024",
-    "Periode": "Feb-24",
-    "Tahun": 2024,
-    "Bulan": "Feb",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.71,
-      "yoy": 2.6,
-      "ytd": 0.82
-    },
-    "Jawa Barat": {
-      "mtm": 0.45,
-      "yoy": 3.09,
-      "ytd": 0.6
-    },
-    "Nasional": {
-      "mtm": 0.37,
-      "yoy - rhs": 2.75,
-      "ytd": 0.41
-    }
-  },
-  {
-    "Date": "03/24/2024",
-    "Periode": "Mar-24",
-    "Tahun": 2024,
-    "Bulan": "Mar",
-    "Tasikmalaya": {
-      "mtm - rhs": 0.64,
-      "yoy": 3.13,
-      "ytd": 1.47
-    },
-    "Jawa Barat": {
-      "mtm": 0.51,
-      "yoy": 3.48,
-      "ytd": 1.12
-    },
-    "Nasional": {
-      "mtm": 0.52,
-      "yoy": 3.05,
-      "yoy - rhs": 2.93,
-      "ytd": 0.93
-    }
+{
+  "title": "Prediksi Inflasi",
+  "slug": "prediksi-inflasi",
+  "description": "Dataset ini menunjukkan prediksi data inflasi untuk Tasikmalaya",
+  "source": "UDSK",
+  "content": {
+    "columns": [
+      {
+        "field": "Date",
+        "headerName": "Date",
+        "width": 120,
+        "metadata": {
+          "isLabels": true
+        }
+      },
+      {
+        "field": "Tasikmalaya.mtm - rhs",
+        "headerName": "mtm",
+        "width": 150,
+        "metadata": {
+          "unit": "%",
+          "isSeries": true
+        }
+      },
+      {
+        "field": "Tasikmalaya.yoy",
+        "headerName": "yoy",
+        "width": 150,
+        "metadata": {
+          "unit": "%",
+          "isSeries": true
+        }
+      }
+    ],
+    "rows": [
+      {
+        "Date": "01/31/2012",
+        "Periode": "Jan-12",
+        "Tahun": 2012,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.16,
+          "yoy": 4.64,
+          "ytd": 1.16
+        },
+        "Jawa Barat": {
+          "mtm": 0.79,
+          "yoy": 3.28,
+          "ytd": 0.79
+        },
+        "Nasional": {
+          "mtm": 0.76,
+          "yoy - rhs": 3.65,
+          "ytd": 0.76
+        }
+      },
+      {
+        "Date": "02/29/2012",
+        "Periode": "Feb-12",
+        "Tahun": 2012,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.44,
+          "yoy": 4.86,
+          "ytd": 1.6
+        },
+        "Jawa Barat": {
+          "mtm": 0.66,
+          "yoy": 3.83,
+          "ytd": 1.45
+        },
+        "Nasional": {
+          "mtm": 0.54,
+          "yoy - rhs": 3.56,
+          "ytd": 1.3
+        }
+      },
+      {
+        "Date": "03/31/2012",
+        "Periode": "Mar-12",
+        "Tahun": 2012,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.6,
+          "yoy": 5.27,
+          "ytd": 2.21
+        },
+        "Jawa Barat": {
+          "mtm": 0.64,
+          "yoy": 4.06,
+          "ytd": 2.1
+        },
+        "Nasional": {
+          "mtm": 0.07,
+          "yoy - rhs": 3.97,
+          "ytd": 1.38
+        }
+      },
+      {
+        "Date": "04/30/2012",
+        "Periode": "Apr-12",
+        "Tahun": 2012,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.25,
+          "yoy": 5.13,
+          "ytd": 1.96
+        },
+        "Jawa Barat": {
+          "mtm": 0.12,
+          "yoy": 3.81,
+          "ytd": 2.22
+        },
+        "Nasional": {
+          "mtm": -0.05,
+          "yoy - rhs": 4.07,
+          "ytd": 1.33
+        }
+      },
+      {
+        "Date": "05/31/2012",
+        "Periode": "Mei-12",
+        "Tahun": 2012,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.22,
+          "yoy": 5.2,
+          "ytd": 2.19
+        },
+        "Jawa Barat": {
+          "mtm": 0.12,
+          "yoy": 3.77,
+          "ytd": 2.35
+        },
+        "Nasional": {
+          "mtm": 0.07,
+          "yoy - rhs": 4.45,
+          "ytd": 1.4
+        }
+      },
+      {
+        "Date": "06/30/2012",
+        "Periode": "Jun-12",
+        "Tahun": 2012,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.92,
+          "yoy": 5.79,
+          "ytd": 3.12
+        },
+        "Jawa Barat": {
+          "mtm": 0.61,
+          "yoy": 4.3,
+          "ytd": 2.97
+        },
+        "Nasional": {
+          "mtm": 0.62,
+          "yoy - rhs": 4.53,
+          "ytd": 2.02
+        }
+      },
+      {
+        "Date": "07/31/2012",
+        "Periode": "Jul-12",
+        "Tahun": 2012,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.28,
+          "yoy": 6.39,
+          "ytd": 4.43
+        },
+        "Jawa Barat": {
+          "mtm": 0.92,
+          "yoy": 4.88,
+          "ytd": 3.92
+        },
+        "Nasional": {
+          "mtm": 0.7,
+          "yoy - rhs": 4.56,
+          "ytd": 2.73
+        }
+      },
+      {
+        "Date": "08/31/2012",
+        "Periode": "Agt-12",
+        "Tahun": 2012,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.25,
+          "yoy": 7.1,
+          "ytd": 5.75
+        },
+        "Jawa Barat": {
+          "mtm": 1.1,
+          "yoy": 5.77,
+          "ytd": 5.05
+        },
+        "Nasional": {
+          "mtm": 0.95,
+          "yoy - rhs": 4.58,
+          "ytd": 3.7
+        }
+      },
+      {
+        "Date": "09/30/2012",
+        "Periode": "Sep-12",
+        "Tahun": 2012,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.49,
+          "yoy": 7.14,
+          "ytd": 6.26
+        },
+        "Jawa Barat": {
+          "mtm": 0.68,
+          "yoy": 5.91,
+          "ytd": 5.75
+        },
+        "Nasional": {
+          "mtm": 0.01,
+          "yoy - rhs": 4.31,
+          "ytd": 3.72
+        }
+      },
+      {
+        "Date": "10/31/2012",
+        "Periode": "Okt-12",
+        "Tahun": 2012,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.3,
+          "yoy": 7.04,
+          "ytd": 6.58
+        },
+        "Jawa Barat": {
+          "mtm": 0.35,
+          "yoy": 5.87,
+          "ytd": 6.11
+        },
+        "Nasional": {
+          "mtm": 0.16,
+          "yoy - rhs": 4.6,
+          "ytd": 3.88
+        }
+      },
+      {
+        "Date": "11/30/2012",
+        "Periode": "Nov-12",
+        "Tahun": 2012,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.23,
+          "yoy": 6.69,
+          "ytd": 6.83
+        },
+        "Jawa Barat": {
+          "mtm": 0.17,
+          "yoy": 5.71,
+          "ytd": 6.29
+        },
+        "Nasional": {
+          "mtm": 0.07,
+          "yoy - rhs": 4.32,
+          "ytd": 3.95
+        }
+      },
+      {
+        "Date": "12/31/2012",
+        "Periode": "Des-12",
+        "Tahun": 2012,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.24,
+          "yoy": 6.58,
+          "ytd": 7.09
+        },
+        "Jawa Barat": {
+          "mtm": 0.34,
+          "yoy": 5.61,
+          "ytd": 6.65
+        },
+        "Nasional": {
+          "mtm": 0.54,
+          "yoy - rhs": 4.3,
+          "ytd": 4.51
+        }
+      },
+      {
+        "Date": "01/31/2013",
+        "Periode": "Jan-13",
+        "Tahun": 2013,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.48,
+          "yoy": 6.53,
+          "ytd": 0.48
+        },
+        "Jawa Barat": {
+          "mtm": 0.72,
+          "yoy": 5.87,
+          "ytd": 0.72
+        },
+        "Nasional": {
+          "mtm": 1.03,
+          "yoy - rhs": 4.57,
+          "ytd": 1.03
+        }
+      },
+      {
+        "Date": "02/28/2013",
+        "Periode": "Feb-13",
+        "Tahun": 2013,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.7,
+          "yoy": 6.77,
+          "ytd": 1.18
+        },
+        "Jawa Barat": {
+          "mtm": 0.82,
+          "yoy": 6.03,
+          "ytd": 1.54
+        },
+        "Nasional": {
+          "mtm": 0.75,
+          "yoy - rhs": 5.31,
+          "ytd": 1.78
+        }
+      },
+      {
+        "Date": "03/31/2013",
+        "Periode": "Mar-13",
+        "Tahun": 2013,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.65,
+          "yoy": 6.91,
+          "ytd": 1.84
+        },
+        "Jawa Barat": {
+          "mtm": 0.57,
+          "yoy": 6.18,
+          "ytd": 2.12
+        },
+        "Nasional": {
+          "mtm": 0.63,
+          "yoy - rhs": 5.9,
+          "ytd": 2.41
+        }
+      },
+      {
+        "Date": "04/30/2013",
+        "Periode": "Apr-13",
+        "Tahun": 2013,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.38,
+          "yoy": 6.82,
+          "ytd": 2.23
+        },
+        "Jawa Barat": {
+          "mtm": 0.1,
+          "yoy": 5.8,
+          "ytd": 2.22
+        },
+        "Nasional": {
+          "mtm": 0.1,
+          "yoy - rhs": 5.57,
+          "ytd": 2.51
+        }
+      },
+      {
+        "Date": "05/31/2013",
+        "Periode": "Mei-13",
+        "Tahun": 2013,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.13,
+          "yoy": 6.25,
+          "ytd": 2.37
+        },
+        "Jawa Barat": {
+          "mtm": 0.03,
+          "yoy": 5.18,
+          "ytd": 2.26
+        },
+        "Nasional": {
+          "mtm": 0.03,
+          "yoy - rhs": 5.47,
+          "ytd": 2.54
+        }
+      },
+      {
+        "Date": "06/30/2013",
+        "Periode": "Jun-13",
+        "Tahun": 2013,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.54,
+          "yoy": 6.74,
+          "ytd": 3.94
+        },
+        "Jawa Barat": {
+          "mtm": 1.6,
+          "yoy": 6.26,
+          "ytd": 3.9
+        },
+        "Nasional": {
+          "mtm": 1.03,
+          "yoy - rhs": 5.9,
+          "ytd": 3.6
+        }
+      },
+      {
+        "Date": "07/31/2013",
+        "Periode": "Jul-13",
+        "Tahun": 2013,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 3.78,
+          "yoy": 8.94,
+          "ytd": 7.84
+        },
+        "Jawa Barat": {
+          "mtm": 4.41,
+          "yoy": 8.64,
+          "ytd": 8.53
+        },
+        "Nasional": {
+          "mtm": 3.29,
+          "yoy - rhs": 8.61,
+          "ytd": 6.98
+        }
+      },
+      {
+        "Date": "08/31/2013",
+        "Periode": "Agt-13",
+        "Tahun": 2013,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.9,
+          "yoy": 8.93,
+          "ytd": 8.82
+        },
+        "Jawa Barat": {
+          "mtm": 0.95,
+          "yoy": 8.91,
+          "ytd": 9.54
+        },
+        "Nasional": {
+          "mtm": 1.12,
+          "yoy - rhs": 8.79,
+          "ytd": 8.17
+        }
+      },
+      {
+        "Date": "09/30/2013",
+        "Periode": "Sep-13",
+        "Tahun": 2013,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.1,
+          "yoy": 8.39,
+          "ytd": 8.93
+        },
+        "Jawa Barat": {
+          "mtm": 0.02,
+          "yoy": 8.32,
+          "ytd": 9.56
+        },
+        "Nasional": {
+          "mtm": -0.35,
+          "yoy - rhs": 8.4,
+          "ytd": 7.81
+        }
+      },
+      {
+        "Date": "10/31/2013",
+        "Periode": "Okt-13",
+        "Tahun": 2013,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.01,
+          "yoy": 7.56,
+          "ytd": 8.94
+        },
+        "Jawa Barat": {
+          "mtm": 0.04,
+          "yoy": 7.4,
+          "ytd": 9.61
+        },
+        "Nasional": {
+          "mtm": 0.09,
+          "yoy - rhs": 8.32,
+          "ytd": 7.91
+        }
+      },
+      {
+        "Date": "11/30/2013",
+        "Periode": "Nov-13",
+        "Tahun": 2013,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.38,
+          "yoy": 7.71,
+          "ytd": 9.34
+        },
+        "Jawa Barat": {
+          "mtm": 0.24,
+          "yoy": 7.36,
+          "ytd": 9.87
+        },
+        "Nasional": {
+          "mtm": 0.12,
+          "yoy - rhs": 8.37,
+          "ytd": 8.03
+        }
+      },
+      {
+        "Date": "12/31/2013",
+        "Periode": "Des-13",
+        "Tahun": 2013,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.27,
+          "yoy": 7.58,
+          "ytd": 9.63
+        },
+        "Jawa Barat": {
+          "mtm": 0.42,
+          "yoy": 7.4,
+          "ytd": 10.32
+        },
+        "Nasional": {
+          "mtm": 0.55,
+          "yoy - rhs": 8.38,
+          "ytd": 8.59
+        }
+      },
+      {
+        "Date": "01/31/2014",
+        "Periode": "Jan-14",
+        "Tahun": 2014,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.83,
+          "yoy": 8.33,
+          "ytd": 0.83
+        },
+        "Jawa Barat": {
+          "mtm": 1.04,
+          "yoy": 7.96,
+          "ytd": 1.04
+        },
+        "Nasional": {
+          "mtm": 1.07,
+          "yoy - rhs": 8.22,
+          "ytd": 1.07
+        }
+      },
+      {
+        "Date": "02/28/2014",
+        "Periode": "Feb-14",
+        "Tahun": 2014,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.07,
+          "yoy": 8.72,
+          "ytd": 1.9
+        },
+        "Jawa Barat": {
+          "mtm": 0.75,
+          "yoy": 8.03,
+          "ytd": 1.79
+        },
+        "Nasional": {
+          "mtm": 0.26,
+          "yoy - rhs": 7.75,
+          "ytd": 1.33
+        }
+      },
+      {
+        "Date": "03/31/2014",
+        "Periode": "Mar-14",
+        "Tahun": 2014,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.38,
+          "yoy": 8.49,
+          "ytd": 2.29
+        },
+        "Jawa Barat": {
+          "mtm": 0.13,
+          "yoy": 7.54,
+          "ytd": 1.92
+        },
+        "Nasional": {
+          "mtm": 0.08,
+          "yoy - rhs": 7.32,
+          "ytd": 1.41
+        }
+      },
+      {
+        "Date": "04/30/2014",
+        "Periode": "Apr-14",
+        "Tahun": 2014,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.06,
+          "yoy": 8.13,
+          "ytd": 2.35
+        },
+        "Jawa Barat": {
+          "mtm": 0.06,
+          "yoy": 7.11,
+          "ytd": 1.98
+        },
+        "Nasional": {
+          "mtm": 0.02,
+          "yoy - rhs": 7.25,
+          "ytd": 1.43
+        }
+      },
+      {
+        "Date": "05/31/2014",
+        "Periode": "Mei-14",
+        "Tahun": 2014,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.11,
+          "yoy": 7.99,
+          "ytd": 2.46
+        },
+        "Jawa Barat": {
+          "mtm": 0.19,
+          "yoy": 7.1,
+          "ytd": 2.17
+        },
+        "Nasional": {
+          "mtm": 0.16,
+          "yoy - rhs": 7.32,
+          "ytd": 1.59
+        }
+      },
+      {
+        "Date": "06/30/2014",
+        "Periode": "Jun-14",
+        "Tahun": 2014,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.98,
+          "yoy": 8.35,
+          "ytd": 3.46
+        },
+        "Jawa Barat": {
+          "mtm": 0.71,
+          "yoy": 7.42,
+          "ytd": 2.89
+        },
+        "Nasional": {
+          "mtm": 0.43,
+          "yoy - rhs": 6.7,
+          "ytd": 2.02
+        }
+      },
+      {
+        "Date": "07/31/2014",
+        "Periode": "Jul-14",
+        "Tahun": 2014,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.87,
+          "yoy": 8.19,
+          "ytd": 4.36
+        },
+        "Jawa Barat": {
+          "mtm": 0.73,
+          "yoy": 7.18,
+          "ytd": 3.64
+        },
+        "Nasional": {
+          "mtm": 0.93,
+          "yoy - rhs": 7.26,
+          "ytd": 2.97
+        }
+      },
+      {
+        "Date": "08/31/2014",
+        "Periode": "Agt-14",
+        "Tahun": 2014,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.62,
+          "yoy": 7.49,
+          "ytd": 5.01
+        },
+        "Jawa Barat": {
+          "mtm": 0.67,
+          "yoy": 6.65,
+          "ytd": 4.34
+        },
+        "Nasional": {
+          "mtm": 0.47,
+          "yoy - rhs": 6.7,
+          "ytd": 3.45
+        }
+      },
+      {
+        "Date": "09/30/2014",
+        "Periode": "Sep-14",
+        "Tahun": 2014,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.31,
+          "yoy": 7.31,
+          "ytd": 5.33
+        },
+        "Jawa Barat": {
+          "mtm": 0.28,
+          "yoy": 6.37,
+          "ytd": 4.63
+        },
+        "Nasional": {
+          "mtm": 0.27,
+          "yoy - rhs": 6.75,
+          "ytd": 3.73
+        }
+      },
+      {
+        "Date": "10/31/2014",
+        "Periode": "Okt-14",
+        "Tahun": 2014,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.14,
+          "yoy": 6.95,
+          "ytd": 5.48
+        },
+        "Jawa Barat": {
+          "mtm": 0.18,
+          "yoy": 6.15,
+          "ytd": 4.82
+        },
+        "Nasional": {
+          "mtm": 0.02,
+          "yoy - rhs": 6.74,
+          "ytd": 3.75
+        }
+      },
+      {
+        "Date": "11/30/2014",
+        "Periode": "Nov-14",
+        "Tahun": 2014,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.42,
+          "yoy": 7.55,
+          "ytd": 6.96
+        },
+        "Jawa Barat": {
+          "mtm": 1.3,
+          "yoy": 6.95,
+          "ytd": 6.18
+        },
+        "Nasional": {
+          "mtm": 1.5,
+          "yoy - rhs": 6.23,
+          "ytd": 5.31
+        }
+      },
+      {
+        "Date": "12/31/2014",
+        "Periode": "Des-14",
+        "Tahun": 2014,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.38,
+          "yoy": 8.16,
+          "ytd": 8.43
+        },
+        "Jawa Barat": {
+          "mtm": 1.44,
+          "yoy": 7.69,
+          "ytd": 7.71
+        },
+        "Nasional": {
+          "mtm": 2.46,
+          "yoy - rhs": 8.36,
+          "ytd": 7.92
+        }
+      },
+      {
+        "Date": "01/31/2015",
+        "Periode": "Jan-15",
+        "Tahun": 2015,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.02,
+          "yoy": 6.42,
+          "ytd": -0.02
+        },
+        "Jawa Barat": {
+          "mtm": -0.21,
+          "yoy": 6.49,
+          "ytd": -0.21
+        },
+        "Nasional": {
+          "mtm": -0.24,
+          "yoy - rhs": 6.95,
+          "ytd": -0.24
+        }
+      },
+      {
+        "Date": "02/28/2015",
+        "Periode": "Feb-15",
+        "Tahun": 2015,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.15,
+          "yoy": 6.2,
+          "ytd": 0.13
+        },
+        "Jawa Barat": {
+          "mtm": -0.07,
+          "yoy": 6.23,
+          "ytd": -0.28
+        },
+        "Nasional": {
+          "mtm": -0.36,
+          "yoy - rhs": 6.29,
+          "ytd": -0.59
+        }
+      },
+      {
+        "Date": "03/31/2015",
+        "Periode": "Mar-15",
+        "Tahun": 2015,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.12,
+          "yoy": 5.87,
+          "ytd": 0.25
+        },
+        "Jawa Barat": {
+          "mtm": -0.04,
+          "yoy": 5.79,
+          "ytd": -0.32
+        },
+        "Nasional": {
+          "mtm": 0.17,
+          "yoy - rhs": 6.38,
+          "ytd": -0.43
+        }
+      },
+      {
+        "Date": "04/30/2015",
+        "Periode": "Apr-15",
+        "Tahun": 2015,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.27,
+          "yoy": 5.64,
+          "ytd": 0.52
+        },
+        "Jawa Barat": {
+          "mtm": 0.34,
+          "yoy": 5.78,
+          "ytd": 0.02
+        },
+        "Nasional": {
+          "mtm": 0.36,
+          "yoy - rhs": 6.79,
+          "ytd": -0.07
+        }
+      },
+      {
+        "Date": "05/31/2015",
+        "Periode": "Mei-15",
+        "Tahun": 2015,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.04,
+          "yoy": 5.4,
+          "ytd": 0.56
+        },
+        "Jawa Barat": {
+          "mtm": 0.11,
+          "yoy": 5.64,
+          "ytd": 0.13
+        },
+        "Nasional": {
+          "mtm": 0.5,
+          "yoy - rhs": 7.15,
+          "ytd": 0.43
+        }
+      },
+      {
+        "Date": "06/30/2015",
+        "Periode": "Jun-15",
+        "Tahun": 2015,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.65,
+          "yoy": 5.88,
+          "ytd": 1.22
+        },
+        "Jawa Barat": {
+          "mtm": 0.81,
+          "yoy": 6.24,
+          "ytd": 0.94
+        },
+        "Nasional": {
+          "mtm": 0.54,
+          "yoy - rhs": 7.26,
+          "ytd": 0.98
+        }
+      },
+      {
+        "Date": "07/31/2015",
+        "Periode": "Jul-15",
+        "Tahun": 2015,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.98,
+          "yoy": 6.14,
+          "ytd": 2.21
+        },
+        "Jawa Barat": {
+          "mtm": 0.99,
+          "yoy": 6.45,
+          "ytd": 1.93
+        },
+        "Nasional": {
+          "mtm": 0.93,
+          "yoy - rhs": 7.26,
+          "ytd": 1.91
+        }
+      },
+      {
+        "Date": "08/31/2015",
+        "Periode": "Agt-15",
+        "Tahun": 2015,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.42,
+          "yoy": 5.91,
+          "ytd": 2.64
+        },
+        "Jawa Barat": {
+          "mtm": 0.51,
+          "yoy": 6.08,
+          "ytd": 2.45
+        },
+        "Nasional": {
+          "mtm": 0.39,
+          "yoy - rhs": 7.18,
+          "ytd": 2.31
+        }
+      },
+      {
+        "Date": "09/30/2015",
+        "Periode": "Sep-15",
+        "Tahun": 2015,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.19,
+          "yoy": 5.4,
+          "ytd": 2.83
+        },
+        "Jawa Barat": {
+          "mtm": 0.11,
+          "yoy": 5.64,
+          "ytd": 2.56
+        },
+        "Nasional": {
+          "mtm": -0.05,
+          "yoy - rhs": 6.83,
+          "ytd": 2.26
+        }
+      },
+      {
+        "Date": "10/31/2015",
+        "Periode": "Okt-15",
+        "Tahun": 2015,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.31,
+          "yoy": 5.32,
+          "ytd": 3.14
+        },
+        "Jawa Barat": {
+          "mtm": 0.24,
+          "yoy": 5.44,
+          "ytd": 2.81
+        },
+        "Nasional": {
+          "mtm": 0.19,
+          "yoy - rhs": 6.25,
+          "ytd": 2.45
+        }
+      },
+      {
+        "Date": "11/30/2015",
+        "Periode": "Nov-15",
+        "Tahun": 2015,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.53,
+          "yoy": 5.22,
+          "ytd": 3.68
+        },
+        "Jawa Barat": {
+          "mtm": 0.48,
+          "yoy": 5.22,
+          "ytd": 3.3
+        },
+        "Nasional": {
+          "mtm": 0.21,
+          "yoy - rhs": 4.89,
+          "ytd": 2.67
+        }
+      },
+      {
+        "Date": "12/31/2015",
+        "Periode": "Des-15",
+        "Tahun": 2015,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.65,
+          "yoy": 5.54,
+          "ytd": 4.35
+        },
+        "Jawa Barat": {
+          "mtm": 0.54,
+          "yoy": 5.47,
+          "ytd": 3.85
+        },
+        "Nasional": {
+          "mtm": 0.96,
+          "yoy - rhs": 4.89,
+          "ytd": 3.64
+        }
+      },
+      {
+        "Date": "01/31/2016",
+        "Periode": "Jan-16",
+        "Tahun": 2016,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.86,
+          "yoy": 5.98,
+          "ytd": 0.86
+        },
+        "Jawa Barat": {
+          "mtm": 1.23,
+          "yoy": 5.83,
+          "ytd": 1.23
+        },
+        "Nasional": {
+          "mtm": 0.51,
+          "yoy - rhs": 4.14,
+          "ytd": 0.51
+        }
+      },
+      {
+        "Date": "02/29/2016",
+        "Periode": "Feb-16",
+        "Tahun": 2016,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.71,
+          "yoy": 5.93,
+          "ytd": 1.57
+        },
+        "Jawa Barat": {
+          "mtm": 0.32,
+          "yoy": 5.35,
+          "ytd": 1.55
+        },
+        "Nasional": {
+          "mtm": 0.42,
+          "yoy - rhs": 4.42,
+          "ytd": 0.93
+        }
+      },
+      {
+        "Date": "03/31/2016",
+        "Periode": "Mar-16",
+        "Tahun": 2016,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.22,
+          "yoy": 5.46,
+          "ytd": 1.79
+        },
+        "Jawa Barat": {
+          "mtm": 0.18,
+          "yoy": 5.12,
+          "ytd": 1.74
+        },
+        "Nasional": {
+          "mtm": 0.19,
+          "yoy - rhs": 4.45,
+          "ytd": 1.12
+        }
+      },
+      {
+        "Date": "04/30/2016",
+        "Periode": "Apr-16",
+        "Tahun": 2016,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.2,
+          "yoy": 5.12,
+          "ytd": 1.99
+        },
+        "Jawa Barat": {
+          "mtm": 0.19,
+          "yoy": 4.9,
+          "ytd": 1.94
+        },
+        "Nasional": {
+          "mtm": -0.45,
+          "yoy - rhs": 3.6,
+          "ytd": 0.66
+        }
+      },
+      {
+        "Date": "05/31/2016",
+        "Periode": "Mei-16",
+        "Tahun": 2016,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.15,
+          "yoy": 4.88,
+          "ytd": 2.14
+        },
+        "Jawa Barat": {
+          "mtm": 0.19,
+          "yoy": 4.7,
+          "ytd": 2.13
+        },
+        "Nasional": {
+          "mtm": 0.24,
+          "yoy - rhs": 3.33,
+          "ytd": 0.9
+        }
+      },
+      {
+        "Date": "06/30/2016",
+        "Periode": "Jun-16",
+        "Tahun": 2016,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.65,
+          "yoy": 5.4,
+          "ytd": 2.8
+        },
+        "Jawa Barat": {
+          "mtm": 0.93,
+          "yoy": 5.05,
+          "ytd": 3.08
+        },
+        "Nasional": {
+          "mtm": 0.66,
+          "yoy - rhs": 3.45,
+          "ytd": 1.56
+        }
+      },
+      {
+        "Date": "07/31/2016",
+        "Periode": "Jul-16",
+        "Tahun": 2016,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.53,
+          "yoy": 5.21,
+          "ytd": 3.35
+        },
+        "Jawa Barat": {
+          "mtm": 0.67,
+          "yoy": 5.06,
+          "ytd": 3.75
+        },
+        "Nasional": {
+          "mtm": 0.69,
+          "yoy - rhs": 3.43,
+          "ytd": 2.25
+        }
+      },
+      {
+        "Date": "08/31/2016",
+        "Periode": "Agt-16",
+        "Tahun": 2016,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.31,
+          "yoy": 5.21,
+          "ytd": 3.67
+        },
+        "Jawa Barat": {
+          "mtm": 0.51,
+          "yoy": 5.21,
+          "ytd": 4.27
+        },
+        "Nasional": {
+          "mtm": 0.28,
+          "yoy - rhs": 2.79,
+          "ytd": 2.54
+        }
+      },
+      {
+        "Date": "09/30/2016",
+        "Periode": "Sep-16",
+        "Tahun": 2016,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.21,
+          "yoy": 4.74,
+          "ytd": 3.45
+        },
+        "Jawa Barat": {
+          "mtm": -0.05,
+          "yoy": 4.76,
+          "ytd": 4.22
+        },
+        "Nasional": {
+          "mtm": -0.14,
+          "yoy - rhs": 3.07,
+          "ytd": 2.39
+        }
+      },
+      {
+        "Date": "10/31/2016",
+        "Periode": "Okt-16",
+        "Tahun": 2016,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.21,
+          "yoy": 4.77,
+          "ytd": 3.67
+        },
+        "Jawa Barat": {
+          "mtm": 0.24,
+          "yoy": 4.84,
+          "ytd": 4.47
+        },
+        "Nasional": {
+          "mtm": 0.14,
+          "yoy - rhs": 3.31,
+          "ytd": 2.53
+        }
+      },
+      {
+        "Date": "11/30/2016",
+        "Periode": "Nov-16",
+        "Tahun": 2016,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.53,
+          "yoy": 5.08,
+          "ytd": 4.22
+        },
+        "Jawa Barat": {
+          "mtm": 0.45,
+          "yoy": 5.14,
+          "ytd": 4.93
+        },
+        "Nasional": {
+          "mtm": 0.47,
+          "yoy - rhs": 3.58,
+          "ytd": 3.01
+        }
+      },
+      {
+        "Date": "12/31/2016",
+        "Periode": "Des-16",
+        "Tahun": 2016,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.58,
+          "yoy": 5.55,
+          "ytd": 4.82
+        },
+        "Jawa Barat": {
+          "mtm": 0.54,
+          "yoy": 5.65,
+          "ytd": 5.5
+        },
+        "Nasional": {
+          "mtm": 0.42,
+          "yoy - rhs": 3.02,
+          "ytd": 3.44
+        }
+      },
+      {
+        "Date": "01/31/2017",
+        "Periode": "Jan-17",
+        "Tahun": 2017,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.02,
+          "yoy": 5.81,
+          "ytd": 1.02
+        },
+        "Jawa Barat": {
+          "mtm": 0.81,
+          "yoy": 5.64,
+          "ytd": 0.81
+        },
+        "Nasional": {
+          "mtm": 0.97,
+          "yoy - rhs": 3.49,
+          "ytd": 0.97
+        }
+      },
+      {
+        "Date": "02/28/2017",
+        "Periode": "Feb-17",
+        "Tahun": 2017,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.34,
+          "yoy": 5.66,
+          "ytd": 1.37
+        },
+        "Jawa Barat": {
+          "mtm": 0.53,
+          "yoy": 5.77,
+          "ytd": 1.34
+        },
+        "Nasional": {
+          "mtm": 0.23,
+          "yoy - rhs": 3.83,
+          "ytd": 1.21
+        }
+      },
+      {
+        "Date": "03/31/2017",
+        "Periode": "Mar-17",
+        "Tahun": 2017,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.1,
+          "yoy": 5.42,
+          "ytd": 1.47
+        },
+        "Jawa Barat": {
+          "mtm": 0.02,
+          "yoy": 5.42,
+          "ytd": 1.36
+        },
+        "Nasional": {
+          "mtm": 0.02,
+          "yoy - rhs": 3.61,
+          "ytd": 1.24
+        }
+      },
+      {
+        "Date": "04/30/2017",
+        "Periode": "Apr-17",
+        "Tahun": 2017,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.12,
+          "yoy": 5.3,
+          "ytd": 1.59
+        },
+        "Jawa Barat": {
+          "mtm": 0.15,
+          "yoy": 5.28,
+          "ytd": 1.51
+        },
+        "Nasional": {
+          "mtm": 0,
+          "yoy - rhs": 4.17,
+          "ytd": 1.24
+        }
+      },
+      {
+        "Date": "05/31/2017",
+        "Periode": "Mei-17",
+        "Tahun": 2017,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.19,
+          "yoy": 5.14,
+          "ytd": 1.79
+        },
+        "Jawa Barat": {
+          "mtm": 0.27,
+          "yoy": 5.02,
+          "ytd": 1.78
+        },
+        "Nasional": {
+          "mtm": 0.39,
+          "yoy - rhs": 4.33,
+          "ytd": 1.63
+        }
+      },
+      {
+        "Date": "06/30/2017",
+        "Periode": "Jun-17",
+        "Tahun": 2017,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.57,
+          "yoy": 5.18,
+          "ytd": 2.37
+        },
+        "Jawa Barat": {
+          "mtm": 0.61,
+          "yoy": 5.3,
+          "ytd": 2.4
+        },
+        "Nasional": {
+          "mtm": 0.69,
+          "yoy - rhs": 4.37,
+          "ytd": 2.33
+        }
+      },
+      {
+        "Date": "07/31/2017",
+        "Periode": "Jul-17",
+        "Tahun": 2017,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.63,
+          "yoy": 4.91,
+          "ytd": 3.01
+        },
+        "Jawa Barat": {
+          "mtm": 0.57,
+          "yoy": 5.1,
+          "ytd": 2.98
+        },
+        "Nasional": {
+          "mtm": 0.22,
+          "yoy - rhs": 3.88,
+          "ytd": 2.55
+        }
+      },
+      {
+        "Date": "08/31/2017",
+        "Periode": "Agt-17",
+        "Tahun": 2017,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.02,
+          "yoy": 4.45,
+          "ytd": 2.98
+        },
+        "Jawa Barat": {
+          "mtm": -0.01,
+          "yoy": 4.5,
+          "ytd": 2.96
+        },
+        "Nasional": {
+          "mtm": -0.07,
+          "yoy - rhs": 3.82,
+          "ytd": 2.47
+        }
+      },
+      {
+        "Date": "09/30/2017",
+        "Periode": "Sep-17",
+        "Tahun": 2017,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.15,
+          "yoy": 4.02,
+          "ytd": 2.82
+        },
+        "Jawa Barat": {
+          "mtm": -0.17,
+          "yoy": 3.98,
+          "ytd": 2.79
+        },
+        "Nasional": {
+          "mtm": -0.13,
+          "yoy - rhs": 3.72,
+          "ytd": 2.34
+        }
+      },
+      {
+        "Date": "10/31/2017",
+        "Periode": "Okt-17",
+        "Tahun": 2017,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.07,
+          "yoy": 3.8,
+          "ytd": 2.89
+        },
+        "Jawa Barat": {
+          "mtm": 0.15,
+          "yoy": 3.93,
+          "ytd": 2.94
+        },
+        "Nasional": {
+          "mtm": 0.01,
+          "yoy - rhs": 3.58,
+          "ytd": 2.36
+        }
+      },
+      {
+        "Date": "11/30/2017",
+        "Periode": "Nov-17",
+        "Tahun": 2017,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.3,
+          "yoy": 3.92,
+          "ytd": 3.19
+        },
+        "Jawa Barat": {
+          "mtm": 0.41,
+          "yoy": 4.2,
+          "ytd": 3.36
+        },
+        "Nasional": {
+          "mtm": 0.2,
+          "yoy - rhs": 3.3,
+          "ytd": 2.56
+        }
+      },
+      {
+        "Date": "12/31/2017",
+        "Periode": "Des-17",
+        "Tahun": 2017,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.65,
+          "yoy": 4.11,
+          "ytd": 3.86
+        },
+        "Jawa Barat": {
+          "mtm": 0.54,
+          "yoy": 4.25,
+          "ytd": 3.91
+        },
+        "Nasional": {
+          "mtm": 0.71,
+          "yoy - rhs": 3.61,
+          "ytd": 3.3
+        }
+      },
+      {
+        "Date": "01/31/2018",
+        "Periode": "Jan-18",
+        "Tahun": 2018,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.83,
+          "yoy": 4.3,
+          "ytd": 0.83
+        },
+        "Jawa Barat": {
+          "mtm": 0.98,
+          "yoy": 4.45,
+          "ytd": 0.98
+        },
+        "Nasional": {
+          "mtm": 0.62,
+          "yoy - rhs": 3.55,
+          "ytd": 0.62
+        }
+      },
+      {
+        "Date": "02/28/2018",
+        "Periode": "Feb-18",
+        "Tahun": 2018,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.16,
+          "yoy": 4.01,
+          "ytd": 0.99
+        },
+        "Jawa Barat": {
+          "mtm": 0.09,
+          "yoy": 4.01,
+          "ytd": 1.07
+        },
+        "Nasional": {
+          "mtm": 0.17,
+          "yoy - rhs": 3.18,
+          "ytd": 0.79
+        }
+      },
+      {
+        "Date": "03/31/2018",
+        "Periode": "Mar-18",
+        "Tahun": 2018,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.11,
+          "yoy": 3.86,
+          "ytd": 1.1
+        },
+        "Jawa Barat": {
+          "mtm": 0.07,
+          "yoy": 3.9,
+          "ytd": 1.14
+        },
+        "Nasional": {
+          "mtm": 0.2,
+          "yoy - rhs": 3.4,
+          "ytd": 0.99
+        }
+      },
+      {
+        "Date": "04/30/2018",
+        "Periode": "Apr-18",
+        "Tahun": 2018,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.04,
+          "yoy": 3.68,
+          "ytd": 1.15
+        },
+        "Jawa Barat": {
+          "mtm": 0.04,
+          "yoy": 3.72,
+          "ytd": 1.18
+        },
+        "Nasional": {
+          "mtm": 0.1,
+          "yoy - rhs": 3.41,
+          "ytd": 1.09
+        }
+      },
+      {
+        "Date": "05/31/2018",
+        "Periode": "Mei-18",
+        "Tahun": 2018,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.35,
+          "yoy": 3.69,
+          "ytd": 1.5
+        },
+        "Jawa Barat": {
+          "mtm": 0.22,
+          "yoy": 3.73,
+          "ytd": 1.4
+        },
+        "Nasional": {
+          "mtm": 0.21,
+          "yoy - rhs": 3.25,
+          "ytd": 1.3
+        }
+      },
+      {
+        "Date": "06/30/2018",
+        "Periode": "Jun-18",
+        "Tahun": 2018,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.52,
+          "yoy": 3.84,
+          "ytd": 2.03
+        },
+        "Jawa Barat": {
+          "mtm": 0.55,
+          "yoy": 3.99,
+          "ytd": 1.96
+        },
+        "Nasional": {
+          "mtm": 0.59,
+          "yoy - rhs": 3.12,
+          "ytd": 1.89
+        }
+      },
+      {
+        "Date": "07/31/2018",
+        "Periode": "Jul-18",
+        "Tahun": 2018,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.14,
+          "yoy": 3.78,
+          "ytd": 2.17
+        },
+        "Jawa Barat": {
+          "mtm": 0.2,
+          "yoy": 3.86,
+          "ytd": 2.16
+        },
+        "Nasional": {
+          "mtm": 0.28,
+          "yoy - rhs": 3.18,
+          "ytd": 2.18
+        }
+      },
+      {
+        "Date": "08/31/2018",
+        "Periode": "Agt-18",
+        "Tahun": 2018,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.07,
+          "yoy": 3.4,
+          "ytd": 2.1
+        },
+        "Jawa Barat": {
+          "mtm": -0.08,
+          "yoy": 3.36,
+          "ytd": 2.07
+        },
+        "Nasional": {
+          "mtm": -0.05,
+          "yoy - rhs": 3.2,
+          "ytd": 2.13
+        }
+      },
+      {
+        "Date": "09/30/2018",
+        "Periode": "Sep-18",
+        "Tahun": 2018,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.09,
+          "yoy": 3.07,
+          "ytd": 2.01
+        },
+        "Jawa Barat": {
+          "mtm": -0.15,
+          "yoy": 3.01,
+          "ytd": 1.91
+        },
+        "Nasional": {
+          "mtm": -0.18,
+          "yoy - rhs": 2.88,
+          "ytd": 1.94
+        }
+      },
+      {
+        "Date": "10/31/2018",
+        "Periode": "Okt-18",
+        "Tahun": 2018,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.29,
+          "yoy": 3.36,
+          "ytd": 2.3
+        },
+        "Jawa Barat": {
+          "mtm": 0.31,
+          "yoy": 3.41,
+          "ytd": 2.23
+        },
+        "Nasional": {
+          "mtm": 0.28,
+          "yoy - rhs": 3.16,
+          "ytd": 2.22
+        }
+      },
+      {
+        "Date": "11/30/2018",
+        "Periode": "Nov-18",
+        "Tahun": 2018,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.37,
+          "yoy": 3.53,
+          "ytd": 2.68
+        },
+        "Jawa Barat": {
+          "mtm": 0.25,
+          "yoy": 3.57,
+          "ytd": 2.49
+        },
+        "Nasional": {
+          "mtm": 0.27,
+          "yoy - rhs": 3.23,
+          "ytd": 2.5
+        }
+      },
+      {
+        "Date": "12/31/2018",
+        "Periode": "Des-18",
+        "Tahun": 2018,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.62,
+          "yoy": 3.71,
+          "ytd": 3.33
+        },
+        "Jawa Barat": {
+          "mtm": 0.53,
+          "yoy": 3.8,
+          "ytd": 3.04
+        },
+        "Nasional": {
+          "mtm": 0.62,
+          "yoy - rhs": 3.13,
+          "ytd": 3.13
+        }
+      },
+      {
+        "Date": "01/31/2019",
+        "Periode": "Jan-19",
+        "Tahun": 2019,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.6,
+          "yoy": 3.77,
+          "ytd": 0.6
+        },
+        "Jawa Barat": {
+          "mtm": 0.68,
+          "yoy": 3.96,
+          "ytd": 0.68
+        },
+        "Nasional": {
+          "mtm": 0.32,
+          "yoy - rhs": 2.82,
+          "ytd": 0.32
+        }
+      },
+      {
+        "Date": "02/28/2019",
+        "Periode": "Feb-19",
+        "Tahun": 2019,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.21,
+          "yoy": 3.59,
+          "ytd": 0.81
+        },
+        "Jawa Barat": {
+          "mtm": 0.11,
+          "yoy": 3.67,
+          "ytd": 0.79
+        },
+        "Nasional": {
+          "mtm": 0.08,
+          "yoy - rhs": 2.57,
+          "ytd": 0.41
+        }
+      },
+      {
+        "Date": "03/31/2019",
+        "Periode": "Mar-19",
+        "Tahun": 2019,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.18,
+          "yoy": 3.55,
+          "ytd": 0.99
+        },
+        "Jawa Barat": {
+          "mtm": 0.1,
+          "yoy": 3.47,
+          "ytd": 0.89
+        },
+        "Nasional": {
+          "mtm": 0.11,
+          "yoy - rhs": 2.48,
+          "ytd": 0.52
+        }
+      },
+      {
+        "Date": "04/30/2019",
+        "Periode": "Apr-19",
+        "Tahun": 2019,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.13,
+          "yoy": 3.33,
+          "ytd": 1.12
+        },
+        "Jawa Barat": {
+          "mtm": 0.13,
+          "yoy": 3.31,
+          "ytd": 1.02
+        },
+        "Nasional": {
+          "mtm": 0.44,
+          "yoy - rhs": 2.83,
+          "ytd": 0.96
+        }
+      },
+      {
+        "Date": "05/31/2019",
+        "Periode": "Mei-19",
+        "Tahun": 2019,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.63,
+          "yoy": 3.63,
+          "ytd": 1.76
+        },
+        "Jawa Barat": {
+          "mtm": 0.54,
+          "yoy": 3.6,
+          "ytd": 1.56
+        },
+        "Nasional": {
+          "mtm": 0.68,
+          "yoy - rhs": 3.32,
+          "ytd": 1.64
+        }
+      },
+      {
+        "Date": "06/30/2019",
+        "Periode": "Jun-19",
+        "Tahun": 2019,
+        "Bulan": "Jun",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.55,
+          "yoy": 3.61,
+          "ytd": 2.32
+        },
+        "Jawa Barat": {
+          "mtm": 0.49,
+          "yoy": 3.51,
+          "ytd": 2.06
+        },
+        "Nasional": {
+          "mtm": 0.55,
+          "yoy - rhs": 3.28,
+          "ytd": 2.19
+        }
+      },
+      {
+        "Date": "07/31/2019",
+        "Periode": "Jul-19",
+        "Tahun": 2019,
+        "Bulan": "Jul",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.44,
+          "yoy": 3.56,
+          "ytd": 2.77
+        },
+        "Jawa Barat": {
+          "mtm": 0.47,
+          "yoy": 3.48,
+          "ytd": 2.54
+        },
+        "Nasional": {
+          "mtm": 0.31,
+          "yoy - rhs": 3.32,
+          "ytd": 2.51
+        }
+      },
+      {
+        "Date": "08/31/2019",
+        "Periode": "Agt-19",
+        "Tahun": 2019,
+        "Bulan": "Agt",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.02,
+          "yoy": 3.39,
+          "ytd": 2.75
+        },
+        "Jawa Barat": {
+          "mtm": 0.01,
+          "yoy": 3.35,
+          "ytd": 2.55
+        },
+        "Nasional": {
+          "mtm": -0.12,
+          "yoy - rhs": 3.49,
+          "ytd": 2.39
+        }
+      },
+      {
+        "Date": "09/30/2019",
+        "Periode": "Sep-19",
+        "Tahun": 2019,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.17,
+          "yoy": 3.07,
+          "ytd": 2.58
+        },
+        "Jawa Barat": {
+          "mtm": -0.26,
+          "yoy": 2.83,
+          "ytd": 2.28
+        },
+        "Nasional": {
+          "mtm": -0.27,
+          "yoy - rhs": 3.39,
+          "ytd": 2.12
+        }
+      },
+      {
+        "Date": "10/31/2019",
+        "Periode": "Okt-19",
+        "Tahun": 2019,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.07,
+          "yoy": 2.9,
+          "ytd": 2.65
+        },
+        "Jawa Barat": {
+          "mtm": 0.12,
+          "yoy": 2.83,
+          "ytd": 2.39
+        },
+        "Nasional": {
+          "mtm": 0.02,
+          "yoy - rhs": 3.16,
+          "ytd": 2.14
+        }
+      },
+      {
+        "Date": "11/30/2019",
+        "Periode": "Nov-19",
+        "Tahun": 2019,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.13,
+          "yoy": 2.79,
+          "ytd": 2.79
+        },
+        "Jawa Barat": {
+          "mtm": 0.15,
+          "yoy": 2.72,
+          "ytd": 2.55
+        },
+        "Nasional": {
+          "mtm": 0.14,
+          "yoy - rhs": 3.0,
+          "ytd": 2.28
+        }
+      },
+      {
+        "Date": "12/31/2019",
+        "Periode": "Des-19",
+        "Tahun": 2019,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.64,
+          "yoy": 3.03,
+          "ytd": 3.46
+        },
+        "Jawa Barat": {
+          "mtm": 0.62,
+          "yoy": 3.09,
+          "ytd": 3.17
+        },
+        "Nasional": {
+          "mtm": 0.34,
+          "yoy - rhs": 2.72,
+          "ytd": 2.62
+        }
+      },
+      {
+        "Date": "01/20/2020",
+        "Periode": "Jan-20",
+        "Tahun": 2020,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.17,
+          "yoy": 1.35,
+          "ytd": 0.17
+        },
+        "Jawa Barat": {
+          "mtm": 0.47,
+          "yoy": 3.41,
+          "ytd": 0.47
+        },
+        "Nasional": {
+          "mtm": 0.39,
+          "yoy - rhs": 2.68,
+          "ytd": 0.39
+        }
+      },
+      {
+        "Date": "02/20/2020",
+        "Periode": "Feb-20",
+        "Tahun": 2020,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.32,
+          "yoy": 1.81,
+          "ytd": 0.49
+        },
+        "Jawa Barat": {
+          "mtm": 0.31,
+          "yoy": 3.72,
+          "ytd": 0.78
+        },
+        "Nasional": {
+          "mtm": 0.28,
+          "yoy - rhs": 2.98,
+          "ytd": 0.66
+        }
+      },
+      {
+        "Date": "03/20/2020",
+        "Periode": "Mar-20",
+        "Tahun": 2020,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.32,
+          "yoy": 2.16,
+          "ytd": 0.81
+        },
+        "Jawa Barat": {
+          "mtm": 0.31,
+          "yoy": 3.95,
+          "ytd": 1.1
+        },
+        "Nasional": {
+          "mtm": 0.1,
+          "yoy - rhs": 2.96,
+          "ytd": 0.76
+        }
+      },
+      {
+        "Date": "04/20/2020",
+        "Periode": "Apr-20",
+        "Tahun": 2020,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.13,
+          "yoy": 2.08,
+          "ytd": 0.93
+        },
+        "Jawa Barat": {
+          "mtm": 0.13,
+          "yoy": 3.77,
+          "ytd": 1.23
+        },
+        "Nasional": {
+          "mtm": 0.08,
+          "yoy - rhs": 2.67,
+          "ytd": 0.84
+        }
+      },
+      {
+        "Date": "05/20/2020",
+        "Periode": "Mei-20",
+        "Tahun": 2020,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.03,
+          "yoy": 1.65,
+          "ytd": 0.96
+        },
+        "Jawa Barat": {
+          "mtm": -0.11,
+          "yoy": 2.93,
+          "ytd": 1.12
+        },
+        "Nasional": {
+          "mtm": 0.07,
+          "yoy - rhs": 2.19,
+          "ytd": 0.9
+        }
+      },
+      {
+        "Date": "06/20/2020",
+        "Periode": "Jun-20",
+        "Tahun": 2020,
+        "Bulan": "Juni",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.15,
+          "yoy": 1.44,
+          "ytd": 1.11
+        },
+        "Jawa Barat": {
+          "mtm": 0.32,
+          "yoy": 2.75,
+          "ytd": 1.44
+        },
+        "Nasional": {
+          "mtm": 0.18,
+          "yoy - rhs": 1.96,
+          "ytd": 1.09
+        }
+      },
+      {
+        "Date": "07/20/2020",
+        "Periode": "Jul-20",
+        "Tahun": 2020,
+        "Bulan": "Juli",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.13,
+          "yoy": 1.28,
+          "ytd": 1.24
+        },
+        "Jawa Barat": {
+          "mtm": -0.07,
+          "yoy": 2.21,
+          "ytd": 1.38
+        },
+        "Nasional": {
+          "mtm": -0.1,
+          "yoy - rhs": 1.54,
+          "ytd": 0.98
+        }
+      },
+      {
+        "Date": "08/20/2020",
+        "Periode": "Agu-20",
+        "Tahun": 2020,
+        "Bulan": "Agu",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.27,
+          "yoy": 0.87,
+          "ytd": 0.96
+        },
+        "Jawa Barat": {
+          "mtm": -0.08,
+          "yoy": 1.71,
+          "ytd": 1.3
+        },
+        "Nasional": {
+          "mtm": -0.05,
+          "yoy - rhs": 1.32,
+          "ytd": 0.93
+        }
+      },
+      {
+        "Date": "09/20/2020",
+        "Periode": "Sep-20",
+        "Tahun": 2020,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.03,
+          "yoy": 1.31,
+          "ytd": 0.93
+        },
+        "Jawa Barat": {
+          "mtm": -0.01,
+          "yoy": 1.77,
+          "ytd": 1.29
+        },
+        "Nasional": {
+          "mtm": -0.05,
+          "yoy - rhs": 1.42,
+          "ytd": 0.89
+        }
+      },
+      {
+        "Date": "10/20/2020",
+        "Periode": "Okt-20",
+        "Tahun": 2020,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.14,
+          "yoy": 1.61,
+          "ytd": 1.07
+        },
+        "Jawa Barat": {
+          "mtm": 0.07,
+          "yoy": 1.86,
+          "ytd": 1.36
+        },
+        "Nasional": {
+          "mtm": 0.07,
+          "yoy - rhs": 1.44,
+          "ytd": 0.95
+        }
+      },
+      {
+        "Date": "11/20/2020",
+        "Periode": "Nov-20",
+        "Tahun": 2020,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.27,
+          "yoy": 1.82,
+          "ytd": 1.35
+        },
+        "Jawa Barat": {
+          "mtm": 0.29,
+          "yoy": 1.99,
+          "ytd": 1.65
+        },
+        "Nasional": {
+          "mtm": 0.28,
+          "yoy - rhs": 1.83,
+          "ytd": 1.35
+        }
+      },
+      {
+        "Date": "12/20/2020",
+        "Periode": "Des-20",
+        "Tahun": 2020,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.26,
+          "yoy": 1.61,
+          "ytd": 1.61
+        },
+        "Jawa Barat": {
+          "mtm": 0.52,
+          "yoy": 2.18,
+          "ytd": 2.18
+        },
+        "Nasional": {
+          "mtm": 0.45,
+          "yoy - rhs": 1.68,
+          "ytd": 1.68
+        }
+      },
+      {
+        "Date": "01/21/2021",
+        "Periode": "Jan-21",
+        "Tahun": 2021,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.25,
+          "yoy": 1.69,
+          "ytd": 0.25
+        },
+        "Jawa Barat": {
+          "mtm": 0.16,
+          "yoy": 1.87,
+          "ytd": 0.16
+        },
+        "Nasional": {
+          "mtm": 0.26,
+          "yoy - rhs": 1.55,
+          "ytd": 0.26
+        }
+      },
+      {
+        "Date": "02/21/2021",
+        "Periode": "Feb-21",
+        "Tahun": 2021,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.02,
+          "yoy": 1.39,
+          "ytd": 0.27
+        },
+        "Jawa Barat": {
+          "mtm": 0.19,
+          "yoy": 1.74,
+          "ytd": 0.35
+        },
+        "Nasional": {
+          "mtm": 0.1,
+          "yoy - rhs": 1.38,
+          "ytd": 0.36
+        }
+      },
+      {
+        "Date": "03/21/2021",
+        "Periode": "Mar-21",
+        "Tahun": 2021,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.06,
+          "yoy": 1.01,
+          "ytd": 0.21
+        },
+        "Jawa Barat": {
+          "mtm": 0.01,
+          "yoy": 1.43,
+          "ytd": 0.36
+        },
+        "Nasional": {
+          "mtm": 0.08,
+          "yoy - rhs": 1.37,
+          "ytd": 0.44
+        }
+      },
+      {
+        "Date": "04/21/2021",
+        "Periode": "Apr-21",
+        "Tahun": 2021,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.38,
+          "yoy": 1.26,
+          "ytd": 0.59
+        },
+        "Jawa Barat": {
+          "mtm": 0.22,
+          "yoy": 1.52,
+          "ytd": 0.58
+        },
+        "Nasional": {
+          "mtm": 0.13,
+          "yoy - rhs": 1.42,
+          "ytd": 0.58
+        }
+      },
+      {
+        "Date": "05/21/2021",
+        "Periode": "Mei-21",
+        "Tahun": 2021,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.11,
+          "yoy": 1.34,
+          "ytd": 0.69
+        },
+        "Jawa Barat": {
+          "mtm": 0.38,
+          "yoy": 2.03,
+          "ytd": 0.96
+        },
+        "Nasional": {
+          "mtm": 0.32,
+          "yoy - rhs": 1.68,
+          "ytd": 0.9
+        }
+      },
+      {
+        "Date": "06/21/2021",
+        "Periode": "Jun-21",
+        "Tahun": 2021,
+        "Bulan": "Juni",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.05,
+          "yoy": 1.14,
+          "ytd": 0.65
+        },
+        "Jawa Barat": {
+          "mtm": -0.23,
+          "yoy": 1.46,
+          "ytd": 0.73
+        },
+        "Nasional": {
+          "mtm": -0.16,
+          "yoy - rhs": 1.33,
+          "ytd": 0.77
+        }
+      },
+      {
+        "Date": "07/21/2021",
+        "Periode": "Jul-21",
+        "Tahun": 2021,
+        "Bulan": "Juli",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.08,
+          "yoy": 1.09,
+          "ytd": 0.72
+        },
+        "Jawa Barat": {
+          "mtm": 0.11,
+          "yoy": 1.64,
+          "ytd": 0.84
+        },
+        "Nasional": {
+          "mtm": 0.08,
+          "yoy - rhs": 1.52,
+          "ytd": 0.81
+        }
+      },
+      {
+        "Date": "08/21/2021",
+        "Periode": "Agu-21",
+        "Tahun": 2021,
+        "Bulan": "Agu",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.02,
+          "yoy": 1.59,
+          "ytd": 0.74
+        },
+        "Jawa Barat": {
+          "mtm": 0.14,
+          "yoy": 1.86,
+          "ytd": 0.98
+        },
+        "Nasional": {
+          "mtm": 0.03,
+          "yoy - rhs": 1.59,
+          "ytd": 0.84
+        }
+      },
+      {
+        "Date": "09/21/2021",
+        "Periode": "Sep-21",
+        "Tahun": 2021,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.24,
+          "yoy": 1.18,
+          "ytd": 0.5
+        },
+        "Jawa Barat": {
+          "mtm": -0.11,
+          "yoy": 1.76,
+          "ytd": 0.87
+        },
+        "Nasional": {
+          "mtm": -0.04,
+          "yoy - rhs": 1.6,
+          "ytd": 0.8
+        }
+      },
+      {
+        "Date": "10/21/2021",
+        "Periode": "Okt-21",
+        "Tahun": 2021,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.03,
+          "yoy": 1.07,
+          "ytd": 0.53
+        },
+        "Jawa Barat": {
+          "mtm": 0.07,
+          "yoy": 1.77,
+          "ytd": 0.95
+        },
+        "Nasional": {
+          "mtm": 0.12,
+          "yoy - rhs": 1.66,
+          "ytd": 0.93
+        }
+      },
+      {
+        "Date": "11/21/2021",
+        "Periode": "Nov-21",
+        "Tahun": 2021,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.17,
+          "yoy": 0.97,
+          "ytd": 0.7
+        },
+        "Jawa Barat": {
+          "mtm": 0.27,
+          "yoy": 1.74,
+          "ytd": 1.22
+        },
+        "Nasional": {
+          "mtm": 0.37,
+          "yoy - rhs": 1.75,
+          "ytd": 1.3
+        }
+      },
+      {
+        "Date": "12/21/2021",
+        "Periode": "Des-21",
+        "Tahun": 2021,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.46,
+          "yoy": 1.17,
+          "ytd": 1.17
+        },
+        "Jawa Barat": {
+          "mtm": 0.46,
+          "yoy": 1.69,
+          "ytd": 1.69
+        },
+        "Nasional": {
+          "mtm": 0.57,
+          "yoy - rhs": 1.87,
+          "ytd": 1.87
+        }
+      },
+      {
+        "Date": "01/22/2022",
+        "Periode": "Jan-22",
+        "Tahun": 2022,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.45,
+          "yoy": 1.37,
+          "ytd": 0.45
+        },
+        "Jawa Barat": {
+          "mtm": 0.45,
+          "yoy": 1.98,
+          "ytd": 0.45
+        },
+        "Nasional": {
+          "mtm": 0.56,
+          "yoy - rhs": 2.18,
+          "ytd": 0.56
+        }
+      },
+      {
+        "Date": "02/22/2022",
+        "Periode": "Feb-22",
+        "Tahun": 2022,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.48,
+          "yoy": 1.84,
+          "ytd": 0.94
+        },
+        "Jawa Barat": {
+          "mtm": 0.26,
+          "yoy": 2.05,
+          "ytd": 0.71
+        },
+        "Nasional": {
+          "mtm": -0.02,
+          "yoy - rhs": 2.06,
+          "ytd": 0.54
+        }
+      },
+      {
+        "Date": "03/22/2022",
+        "Periode": "Mar-22",
+        "Tahun": 2022,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.04,
+          "yoy": 2.96,
+          "ytd": 1.98
+        },
+        "Jawa Barat": {
+          "mtm": 0.69,
+          "yoy": 2.74,
+          "ytd": 1.4
+        },
+        "Nasional": {
+          "mtm": 0.66,
+          "yoy - rhs": 2.64,
+          "ytd": 1.2
+        }
+      },
+      {
+        "Date": "04/22/2022",
+        "Periode": "Apr-22",
+        "Tahun": 2022,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 1.36,
+          "yoy": 3.96,
+          "ytd": 3.37
+        },
+        "Jawa Barat": {
+          "mtm": 1.07,
+          "yoy": 3.61,
+          "ytd": 2.49
+        },
+        "Nasional": {
+          "mtm": 0.95,
+          "yoy - rhs": 3.47,
+          "ytd": 2.15
+        }
+      },
+      {
+        "Date": "05/22/2022",
+        "Periode": "Mei-22",
+        "Tahun": 2022,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.76,
+          "yoy": 4.64,
+          "ytd": 4.15
+        },
+        "Jawa Barat": {
+          "mtm": 0.34,
+          "yoy": 3.57,
+          "ytd": 2.84
+        },
+        "Nasional": {
+          "mtm": 0.4,
+          "yoy - rhs": 3.55,
+          "ytd": 2.56
+        }
+      },
+      {
+        "Date": "06/22/2022",
+        "Periode": "Jun-22",
+        "Tahun": 2022,
+        "Bulan": "Juni",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.41,
+          "yoy": 5.12,
+          "ytd": 4.58
+        },
+        "Jawa Barat": {
+          "mtm": 0.57,
+          "yoy": 4.41,
+          "ytd": 3.43
+        },
+        "Nasional": {
+          "mtm": 0.61,
+          "yoy - rhs": 4.35,
+          "ytd": 3.19
+        }
+      },
+      {
+        "Date": "07/22/2022",
+        "Periode": "Jul-22",
+        "Tahun": 2022,
+        "Bulan": "Juli",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.57,
+          "yoy": 5.64,
+          "ytd": 5.18
+        },
+        "Jawa Barat": {
+          "mtm": 0.62,
+          "yoy": 4.94,
+          "ytd": 4.07
+        },
+        "Nasional": {
+          "mtm": 0.64,
+          "yoy - rhs": 4.94,
+          "ytd": 3.85
+        }
+      },
+      {
+        "Date": "08/22/2022",
+        "Periode": "Agu-22",
+        "Tahun": 2022,
+        "Bulan": "Agu",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.22,
+          "yoy": 5.39,
+          "ytd": 4.95
+        },
+        "Jawa Barat": {
+          "mtm": -0.06,
+          "yoy": 4.73,
+          "ytd": 4.01
+        },
+        "Nasional": {
+          "mtm": -0.21,
+          "yoy - rhs": 4.69,
+          "ytd": 3.63
+        }
+      },
+      {
+        "Date": "09/22/2022",
+        "Periode": "Sep-22",
+        "Tahun": 2022,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.95,
+          "yoy": 6.66,
+          "ytd": 5.95
+        },
+        "Jawa Barat": {
+          "mtm": 1.21,
+          "yoy": 6.12,
+          "ytd": 5.27
+        },
+        "Nasional": {
+          "mtm": 1.17,
+          "yoy - rhs": 5.95,
+          "ytd": 4.84
+        }
+      },
+      {
+        "Date": "10/22/2022",
+        "Periode": "Okt-22",
+        "Tahun": 2022,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.05,
+          "yoy": 6.57,
+          "ytd": 5.9
+        },
+        "Jawa Barat": {
+          "mtm": -0.11,
+          "yoy": 5.93,
+          "ytd": 5.16
+        },
+        "Nasional": {
+          "mtm": -0.11,
+          "yoy - rhs": 5.71,
+          "ytd": 4.73
+        }
+      },
+      {
+        "Date": "11/22/2022",
+        "Periode": "Nov-22",
+        "Tahun": 2022,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.18,
+          "yoy": 6.58,
+          "ytd": 6.09
+        },
+        "Jawa Barat": {
+          "mtm": 0.1,
+          "yoy": 5.75,
+          "ytd": 5.26
+        },
+        "Nasional": {
+          "mtm": 0.09,
+          "yoy - rhs": 5.42,
+          "ytd": 4.82
+        }
+      },
+      {
+        "Date": "12/22/2022",
+        "Periode": "Des-22",
+        "Tahun": 2022,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.53,
+          "yoy": 6.65,
+          "ytd": 6.65
+        },
+        "Jawa Barat": {
+          "mtm": 0.74,
+          "yoy": 6.04,
+          "ytd": 6.04
+        },
+        "Nasional": {
+          "mtm": 0.66,
+          "yoy - rhs": 5.51,
+          "ytd": 5.51
+        }
+      },
+      {
+        "Date": "01/23/2023",
+        "Periode": "Jan-23",
+        "Tahun": 2023,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.41,
+          "yoy": 6.61,
+          "ytd": 0.41
+        },
+        "Jawa Barat": {
+          "mtm": 0.47,
+          "yoy": 6.06,
+          "ytd": 0.47
+        },
+        "Nasional": {
+          "mtm": 0.34,
+          "yoy - rhs": 5.28,
+          "ytd": 0.34
+        }
+      },
+      {
+        "Date": "02/23/2023",
+        "Periode": "Feb-23",
+        "Tahun": 2023,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.41,
+          "yoy": 6.53,
+          "ytd": 0.82
+        },
+        "Jawa Barat": {
+          "mtm": 0.35,
+          "yoy": 6.17,
+          "ytd": 0.83
+        },
+        "Nasional": {
+          "mtm": 0.16,
+          "yoy - rhs": 5.47,
+          "ytd": 0.5
+        }
+      },
+      {
+        "Date": "03/23/2023",
+        "Periode": "Mar-23",
+        "Tahun": 2023,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.07,
+          "yoy": 5.51,
+          "ytd": 0.89
+        },
+        "Jawa Barat": {
+          "mtm": -0.18,
+          "yoy": 5.25,
+          "ytd": 0.64
+        },
+        "Nasional": {
+          "mtm": 0.18,
+          "yoy - rhs": 4.97,
+          "ytd": 0.68
+        }
+      },
+      {
+        "Date": "04/23/2023",
+        "Periode": "Apr-23",
+        "Tahun": 2023,
+        "Bulan": "Apr",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.63,
+          "yoy": 4.75,
+          "ytd": 1.53
+        },
+        "Jawa Barat": {
+          "mtm": 0.4,
+          "yoy": 4.55,
+          "ytd": 1.04
+        },
+        "Nasional": {
+          "mtm": 0.33,
+          "yoy - rhs": 4.33,
+          "ytd": 1.01
+        }
+      },
+      {
+        "Date": "05/23/2023",
+        "Periode": "Mei-23",
+        "Tahun": 2023,
+        "Bulan": "Mei",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.27,
+          "yoy": 4.25,
+          "ytd": 1.81
+        },
+        "Jawa Barat": {
+          "mtm": 0.12,
+          "yoy": 4.32,
+          "ytd": 1.16
+        },
+        "Nasional": {
+          "mtm": 0.09,
+          "yoy - rhs": 4.0,
+          "ytd": 1.1
+        }
+      },
+      {
+        "Date": "06/23/2023",
+        "Periode": "Jun-23",
+        "Tahun": 2023,
+        "Bulan": "Juni",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.04,
+          "yoy": 3.87,
+          "ytd": 1.85
+        },
+        "Jawa Barat": {
+          "mtm": 0.15,
+          "yoy": 3.88,
+          "ytd": 1.32
+        },
+        "Nasional": {
+          "mtm": 0.14,
+          "yoy": 3.52,
+          "yoy - rhs": 3.08,
+          "ytd": 1.24
+        }
+      },
+      {
+        "Date": "07/23/2023",
+        "Periode": "Jul-23",
+        "Tahun": 2023,
+        "Bulan": "Juli",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.13,
+          "yoy": 3.41,
+          "ytd": 1.99
+        },
+        "Jawa Barat": {
+          "mtm": 0.21,
+          "yoy": 3.46,
+          "ytd": 1.54
+        },
+        "Nasional": {
+          "mtm": 0.21,
+          "yoy - rhs": 3.08,
+          "ytd": 1.45
+        }
+      },
+      {
+        "Date": "08/23/2023",
+        "Periode": "Agu-23",
+        "Tahun": 2023,
+        "Bulan": "Agu",
+        "Tasikmalaya": {
+          "mtm - rhs": -0.04,
+          "yoy": 3.59,
+          "ytd": 1.94
+        },
+        "Jawa Barat": {
+          "mtm": -0.05,
+          "yoy": 3.47,
+          "ytd": 1.49
+        },
+        "Nasional": {
+          "mtm": -0.02,
+          "yoy - rhs": 3.27,
+          "ytd": 1.43
+        }
+      },
+      {
+        "Date": "09/23/2023",
+        "Periode": "Sep-23",
+        "Tahun": 2023,
+        "Bulan": "Sep",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.34,
+          "yoy": 2.96,
+          "ytd": 2.29
+        },
+        "Jawa Barat": {
+          "mtm": 0.11,
+          "yoy": 2.35,
+          "ytd": 1.6
+        },
+        "Nasional": {
+          "mtm": 0.19,
+          "yoy - rhs": 2.28,
+          "ytd": 1.63
+        }
+      },
+      {
+        "Date": "10/23/2023",
+        "Periode": "Okt-23",
+        "Tahun": 2023,
+        "Bulan": "Okt",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.01,
+          "yoy": 3.03,
+          "ytd": 2.3
+        },
+        "Jawa Barat": {
+          "mtm": 0.13,
+          "yoy": 2.58,
+          "ytd": 1.73
+        },
+        "Nasional": {
+          "mtm": 0.17,
+          "yoy - rhs": 2.56,
+          "ytd": 1.8
+        }
+      },
+      {
+        "Date": "11/23/2023",
+        "Periode": "Nov-23",
+        "Tahun": 2023,
+        "Bulan": "Nov",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.26,
+          "yoy": 3.11,
+          "ytd": 2.57
+        },
+        "Jawa Barat": {
+          "mtm": 0.36,
+          "yoy": 2.85,
+          "ytd": 2.09
+        },
+        "Nasional": {
+          "mtm": 0.38,
+          "yoy - rhs": 2.86,
+          "ytd": 2.19
+        }
+      },
+      {
+        "Date": "12/23/2023",
+        "Periode": "Des-23",
+        "Tahun": 2023,
+        "Bulan": "Des",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.27,
+          "yoy": 2.84,
+          "ytd": 2.84
+        },
+        "Jawa Barat": {
+          "mtm": 0.37,
+          "yoy": 2.48,
+          "ytd": 2.48
+        },
+        "Nasional": {
+          "mtm": 0.41,
+          "yoy - rhs": 2.61,
+          "ytd": 2.61
+        }
+      },
+      {
+        "Date": "01/24/2024",
+        "Periode": "Jan-24",
+        "Tahun": 2024,
+        "Bulan": "Jan",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.1,
+          "yoy": 2.14,
+          "ytd": 0.1
+        },
+        "Jawa Barat": {
+          "mtm": 0.15,
+          "yoy": 3.02,
+          "ytd": 0.15
+        },
+        "Nasional": {
+          "mtm": 0.04,
+          "yoy - rhs": 2.57,
+          "ytd": 0.04
+        }
+      },
+      {
+        "Date": "02/24/2024",
+        "Periode": "Feb-24",
+        "Tahun": 2024,
+        "Bulan": "Feb",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.71,
+          "yoy": 2.6,
+          "ytd": 0.82
+        },
+        "Jawa Barat": {
+          "mtm": 0.45,
+          "yoy": 3.09,
+          "ytd": 0.6
+        },
+        "Nasional": {
+          "mtm": 0.37,
+          "yoy - rhs": 2.75,
+          "ytd": 0.41
+        }
+      },
+      {
+        "Date": "03/24/2024",
+        "Periode": "Mar-24",
+        "Tahun": 2024,
+        "Bulan": "Mar",
+        "Tasikmalaya": {
+          "mtm - rhs": 0.64,
+          "yoy": 3.13,
+          "ytd": 1.47
+        },
+        "Jawa Barat": {
+          "mtm": 0.51,
+          "yoy": 3.48,
+          "ytd": 1.12
+        },
+        "Nasional": {
+          "mtm": 0.52,
+          "yoy": 3.05,
+          "yoy - rhs": 2.93,
+          "ytd": 0.93
+        }
+      }
+    ]
   }
-]
+}

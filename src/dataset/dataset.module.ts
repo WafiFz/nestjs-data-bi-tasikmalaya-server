@@ -8,5 +8,6 @@ import { Dataset, DatasetSchema } from './dataset.schema';
   imports: [MongooseModule.forFeature([{ name: Dataset.name, schema: DatasetSchema }])],
   controllers: [DatasetController],
   providers: [DatasetService],
+  exports: [DatasetService],
 })
 export class DatasetModule {}
